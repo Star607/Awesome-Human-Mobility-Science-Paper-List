@@ -1,4 +1,4 @@
-# Human Mobility Science List
+# Awesome Human Mobility Science Paper List
 
 I have made a list of accepted papers and useful arxiv papers related to human mobility science. Welcome everybody to continue to complement! Additionally, if you are interested in graph learning, please refer to [Graph-Learning-Reading-List](https://github.com/doujiang-zheng/Graph-Learning-Reading-List) and [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List) created by my co-workers.  
 
@@ -9,6 +9,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
   - [Crowd Flow](#crowd_flow)
   - [OD Flow](#od_flow)
   - [Mobility Pattern](#mobility_pattern)
+
 
 ### [Review](#contents)
 
@@ -67,7 +68,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 ### [Individual Trajectory](#contents)
 
-#### [Prediction](prediction)
+#### [Prediction](#contents)
 
 1. **2024 arxiv REPLAY: Modeling Time-Varying Temporal Regularities of Human Mobility for Location Prediction over Sparse Trajectories**
 
@@ -125,7 +126,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Sébastien Gambs, Marc-Olivier Killijian, Miguel Núñez del Prado Cortez*
 
-#### [Recovery](recovery)
+#### [Recovery](#contents)
 
 1. **2023 TKDD History-enhanced and Uncertainty-aware Trajectory Recovery via Attentive Neural Network**
 
@@ -143,7 +144,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Guangshuo Chen, Aline Carneiro Viana, Marco Fiore, Carlos Sarraute* 
 
-#### [Simulation](simulation)
+#### [Simulation](#contents)
 
 1. **2024 TKDE Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**
 
@@ -225,7 +226,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Shan Jiang, Yingxiang Yanga, Siddharth Gupta, Daniele Venezianoa, Shounak Athavaleb, Marta C. González*
 
-#### [Privacy Preserving](privacy preserving)
+#### [Privacy Preserving](#contents)
 
 1. **2023 TKDE Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**
 
@@ -239,7 +240,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Huandong Wang, Changzheng Gao, Yuchen Wu, Depeng Jin, Lina Yao, Yong Li*
 
-#### [Transfer](#transfer)
+#### [Transfer](#contents)
 
 1. **2024 WWW COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**
 
@@ -249,7 +250,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*
 
-#### [Metrics](metrics)
+#### [Metrics](#contents)
 
 1. **2023 TKDE Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study**
 
@@ -267,7 +268,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Toru Shimizu, Kota Tsubouchi, Takahiro Yabe*
 
-#### [Match](match)
+#### [Match](#contents)
 
 1. **2023 TKDE GraphMM: Graph-based Vehicular Map Matching by Leveraging Trajectory and Road Correlations**
 
