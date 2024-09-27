@@ -146,6 +146,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 #### [Simulation](#contents)
 
+1. **2024 KDD ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**
+
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Qidong Liu, Yongchao Ye, Wei Chen, Zijian Zhang, Xuetao Wei, Yuxuan Liang*
+
 1. **2024 TKDE Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**
 
    *Yu Wang, Tongya Zheng, Shunyu Liu, Zunlei Feng, Kaixuan Chen, Yunzhi Hao, Mingli Song*
