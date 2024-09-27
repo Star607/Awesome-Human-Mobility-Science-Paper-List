@@ -148,7 +148,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 1. **2024 TKDE Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**
 
-  *Yu Wang, Tongya Zheng, Shunyu Liu, Zunlei Feng, Kaixuan Chen, Yunzhi Hao, Mingli Song*
+   *Yu Wang, Tongya Zheng, Shunyu Liu, Zunlei Feng, Kaixuan Chen, Yunzhi Hao, Mingli Song*
 
 1. **2024 Information Fusion Spatiotemporal Gated Traffic Trajectory Simulation with Semantic-aware Graph Learning**
 
