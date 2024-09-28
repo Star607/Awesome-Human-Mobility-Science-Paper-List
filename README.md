@@ -198,6 +198,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Jing Zhang, Qihan Huang, Yirui Huang, Qian Ding, Pei-Wei Tsai*
 
+1. **2021 Transportation Research Part C TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning**
+
+   *Seongjin Choi, Jiwon Kim, Hwasoo Yeo*
+
 1. **2021 KDD Generating Mobility Trajectories with Retained Data Utility**
 
    *Chu Cao, Mo Li*
