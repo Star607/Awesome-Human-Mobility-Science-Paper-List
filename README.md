@@ -260,6 +260,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 #### [Metrics](#contents)
 
+1. **2023 ICDE Contrastive Trajectory Similarity Learning with Dual-Feature Attention**
+
+   *Yanchuan Chang, Jianzhong Qi, Yuxuan Liang, Egemen Tanin*
+
 1. **2023 TKDE Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study**
 
    *Danlei Hu, Lu Chen, Hanxi Fang, Ziquan Fang, Tianyi Li, Yunjun Gao*
@@ -275,6 +279,14 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 1. **2022 SIGSPATIAL GEO-BLEU: similarity measure for geospatial sequences**
 
    *Toru Shimizu, Kota Tsubouchi, Takahiro Yabe*
+
+1. **2021 ICDE E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training**
+
+   *Ziquan Fang, Yuntao Du, Lu Chen, Yujia Hu, Yunjun Gao, Gang Chen*
+
+1. **2018 ICDE Deep Representation Learning for Trajectory Similarity Computation**
+
+   *Xiucheng Li, Kaiqi Zhao, Gao Cong, Christian S. Jensen, Wei Wei*
 
 #### [Match](#contents)
 
