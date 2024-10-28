@@ -146,6 +146,20 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 #### [Simulation](#contents)
 
+1. **2024 TKDE Diff-RNTraj: A Structure-aware Diffusion Model for
+Road Network-constrained Trajectory Generation**
+
+   *Tonglong Wei, Youfang Lin, Shengnan Guo, Yan Lin, Yiheng Huang,
+Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
+
+1. **2024 SIGSPATIAL WildGraph: Realistic Graph-based Trajectory Generation for Wildlife**
+
+   *Ali Al-Lawati, Elsayed Eshra, Prasenjit Mitra*
+
+1. **2024 SIGSPATIAL TrajGPT: Controlled Synthetic Trajectory Generation Using a Multitask Transformer-Based Spatiotemporal Model**
+
+   *Shang-Ling Hsu, Emmanuel Tung, John Krumm, Cyrus Shahabi, Khurram Shafique*
+
 1. **2024 KDD ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Qidong Liu, Yongchao Ye, Wei Chen, Zijian Zhang, Xuetao Wei, Yuxuan Liang*
@@ -236,6 +250,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 #### [Privacy Preserving](#contents)
 
+1. **2024 SIGSPATIAL Adversarial Reconstruction of Trajectories: Privacy Risks and Attack Models in Trajectory Embedding**
+
+   *Haochen Han, Shuaiyu Yang, Jiaxin Ding, Luoyi Fu, Xinbing Wang, Chenghu Zhou*
+
 1. **2023 TKDE Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**
 
    *Fengmei Jin, Wen Hua, Boyu Ruan, Xiaofang Zhou*
@@ -259,6 +277,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
    *Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*
 
 #### [Metrics](#contents)
+
+1. **2024 SIGSPATIAL T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity Computation**
+
+   *Lihuan Li, Hao Xue, Yang Song, Flora Salim*
 
 1. **2023 ICDE Contrastive Trajectory Similarity Learning with Dual-Feature Attention**
 
@@ -297,6 +319,26 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 1. **2022 TKDD L2MM: Learning to Map Matching with Deep Models for Low-Quality GPS Trajectory Data**
 
    *Linli Jiang, Chaoxiong Chen, Chao Chen*
+
+#### [Anomaly Detection](#contents)
+
+1. **2024 SIGSPATIAL Transferable Unsupervised Outlier Detection Framework for Human Semantic Trajectories**
+
+   *Zheng Zhang, Hossein Amiri, Dazhou Yu, Yuntong Hu, Liang Zhao, Andreas Zufle*
+
+1. **2024 SIGSPATIAL Trajectory Anomaly Detection with Language Models**
+
+   *Jonathan Mbuya, Dieter Pfoser, Antonios Anastasopoulos*
+
+1. **2023 ICDE Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning**
+
+   *Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi*
+
+1. **2020 ICDE Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling**
+   *Yiding Liu, Kaiqi Zhao, Gao Cong, Zhifeng Bao*
+
+1. **2018 ADMA Anomalous Trajectory Detection using Recurrent Neural Network**
+   *Li Song,  Ruijia Wang, Ding Xiao, Xiaotian Han, Yanan Cai, Chuan Shi*
 
 ### [Crowd Flow](#contents)
 
@@ -339,6 +381,22 @@ I have made a list of accepted papers and useful arxiv papers related to human m
    *Can Rong, Jie Feng, Yong Li*
 
 ### [Mobility Pattern](#contents)
+
+1. **2024 SIGSPATIAL Urban Mobility Assessment Using LLMs**
+
+   *Prabin Bhandari, Antonios Anastasopoulos, Dieter Pfoser*
+
+1. **2024 SIGSPATIAL Additive Compositionality in Urban Area Embeddings Based on Human Mobility Patterns**
+
+   *Naoki Tamura, Haru Terashima, Kazuyuki Shoji, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi*
+
+1. **2024 SIGSPATIAL The Patterns of Life Human Mobility Simulation**
+
+   *Hossein Amiri, Will Kohn, Shiyang Ruan, Joon-Seok Kim, Hamdi Kavak, Andrew Crooks, Dieter Pfoser, Carola Wenk, Andreas Zufle*
+
+1. **2024 SIGSPATIAL Beauty or Beast: Human Behavioral Insights and Learning Power of Federated Mobility Prediction**
+
+   *João Paulo Esper, Aline Carneiro Viana, Jussara M. Almeida
 
 1. **2023 Scientific Reports Uncovering spatial and social gaps in rural mobility via mobile phone big data**
 
