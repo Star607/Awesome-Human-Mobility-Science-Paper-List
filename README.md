@@ -9,6 +9,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
   - [Crowd Flow](#crowd_flow)
   - [OD Flow](#od_flow)
   - [Mobility Pattern](#mobility_pattern)
+  - [RoadNetwork Representation Learning](#roadNetwork_representation_learning)
 
 
 ### [Review](#contents)
@@ -517,3 +518,37 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 1. **2008 Nature Understanding individual human mobility patterns**
 
    *M.C. Gonzalez, C.A. Hidalgo, A.L. Barabasi*
+
+   ### [RoadNetwork Representation Learning](#contents)
+
+1. **2020 KDD Learning effective road network representation with hierarchical graph neural networks**
+
+   *Ning Wu, Wayne Xin Zhao, Jingyuan Wang, Dayan Pan*
+
+1. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
+
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison*
+
+1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
+
+   *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
+
+1. **2023 PAKDD Road network representation learning with vehicle trajectories**
+
+   *Stefan Schestakov, Paul Heinemeyer, Elena Demidova*
+
+1. **2023 EDBT Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**
+
+   *Yanchuan Chang, Egemen Tanin, Xin Cao, Jianzhong Qi* 
+
+1. **2023 TKDD Road network representation learning: A dual graph-based approach**
+
+   *Liang Zhang, Cheng Long*
+   
+1. **2024 Arxiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
+
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
+
+ 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
+
+   *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
