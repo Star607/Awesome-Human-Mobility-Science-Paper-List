@@ -519,7 +519,7 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 
    *M.C. Gonzalez, C.A. Hidalgo, A.L. Barabasi*
 
-   ### [RoadNetwork Representation Learning](#contents)
+### [RoadNetwork Representation Learning](#contents)
 
 1. **2020 KDD Learning effective road network representation with hierarchical graph neural networks**
 
@@ -549,6 +549,6 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 
    *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
- 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
+1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
