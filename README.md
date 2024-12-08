@@ -554,5 +554,7 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
 ### [POI Recommendation](#contents)
 1. **2024 WWW MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations**
+   
    *Y Xu, G Cong, L Zhu, L Cui*
+
 1. **2024 WWW MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations**
