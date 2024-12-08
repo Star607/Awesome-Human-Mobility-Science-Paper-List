@@ -15,6 +15,13 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 
 ### [Review](#contents)
+1. **2024 Information Fusion Deep Learning for Cross-Domain Data Fusion in Urban Computing:  Taxonomy, Advances, and Outlook**
+
+   *Xingchen Zou, Yibo Yan, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Tianrui Li, Yu Zheng, Yuxuan Liang*
+
+1. **2024 KDD Urban Foundation Models: A Survey**
+
+   *Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Hao Liu, Hui Xiong*
 
 1. **2024 arxiv Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond**
 
@@ -562,7 +569,7 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
    *Peibo Li, Maarten de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim*
 
 1. **2024 TKDE Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning**
-      
+   
    *Xuan Rao, Renhe Jiang, Shuo Shang, Lisi Chen, Peng Han, Bin Yao, Panos Kalnis*
    
 1. **2024 NeurIPS Taming the Long Tail in Human Mobility Prediction**
