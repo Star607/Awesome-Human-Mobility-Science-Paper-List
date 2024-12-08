@@ -552,9 +552,113 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
-### [POI Recommendation](#contents)
-1. **2024 WWW MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations**
    
-   *Y Xu, G Cong, L Zhu, L Cui*
+### [POI Recommendation](#contents)
+
+1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
+   
+   *Peibo Li, Maarten de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim*
+
+1. **2024 TKDE Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning**
+      
+   *Xuan Rao, Renhe Jiang, Shuo Shang, Lisi Chen, Peng Han, Bin Yao, Panos Kalnis*
+   
+1. **2024 NeurIPS Taming the Long Tail in Human Mobility Prediction**
+   
+   *Xiaohang Xu,  Renhe Jiang, Chuang Yang, Zipei Fan,  Kaoru Sezaki*
 
 1. **2024 WWW MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations**
+   
+   *Yang Xu, Gao Cong, Lei Zhu, Lizhen Cui*
+
+1. **2024 NeurIPS Mobility-LLM: Learning Visiting Intentions and Travel Preferences from Human Mobility Data with Large Language Models**
+   
+   *Letian Gong, Yan Lin, Xinyue Zhang, Yiwen Lu, Xuedi Han, Yichen Liu, Shengnan Guo, Youfang Lin, Huaiyu Wan*
+
+1. **2024 Knowledge-Based Systems ImNext: Irregular Interval Attention and Multi-task Learning for Next POI Recommendation**
+   
+   *Xi He, Weikang He, Yilin Liu, Xingyu Lu, Yunpeng Xiao, Yanbing Liu*
+
+1. **2024 KDD ROTAN: A Rotation-based Temporal Attention Network for Time-Specific Next POI Recommendation**
+   
+   *Shanshan Feng, Feiyu Meng, Lisi Chen, L Cui, Shuo Shang, Yew Soon Ong*
+
+1. **2024 KDD Going Where, by Whom, and at What Time: Next Location Prediction Considering User Preference and Temporal Regularity**
+   
+   *Tianao Sun, Ke Fu, Weiming Huang, Kai Zhao, Yongshun Gong, Meng Chen*
+
+1. **2024 IJCAI Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation**
+   
+   *Lianyong Qi, Yuwen Liu, Weiming Liu, Shichao Pei, Xiaolong Xu, Xuyun Zhang, Yingjie Wang, Wanchun Dou*
+
+1. **2024 ICDE Towards Effective Next POI Prediction: Spatial and Semantic Augmentation with Remote Sensing Data**
+   
+   *Nan Jiang,  Haitao Yuan, Jianing Si, Minxiao Chen, Shangguang Wang*
+
+1. **2023 TOIS A Diffusion model for POI recommendation**
+   
+   *Yifang Qin, Hongjun Wu, Wei Ju, Xiao Luo, Ming Zhang*
+
+1. **2023 SIGIR Spatio-Temporal Hypergraph Learning for Next POI Recommendation**
+   
+   *Xiaodong Yan, Tengwei Song, Yifeng Jiao, Jianshan He, Jiaotuan Wang, Ruopeng Li, Wei Chu*
+
+1. **2023 SIGSPATIAL Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation**
+   
+   *Xiaohang Xu, Toyotaro Suzumura, Jiawei Yong, Masatoshi Hanai, Chuang Yang, Hiroki Kanezashi, Renhe Jiang, Shintaro Fukushima*
+
+1. **2023 SIGIR Adaptive Graph Representation Learning for Next POI Recommendation**
+   
+   *Zhaobo Wang, Yanmin Zhu, Chunyang Wang, Wenze Ma, Bo Li, Jiadi Yu*
+
+1. **2023 AAAI Next POI Recommendation with Dynamic Graph and Explicit Dependency**
+   
+   *Feiyu Yin, Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han*
+
+1. **2022 SIGIR Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation**
+   
+   *Nicholas Lim, Bryan Hooi, See-Kiong Ng, Yong Liang Goh, Renrong Weng, Rui Tan*
+
+1. **2022 SIGIR GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**
+   
+   *Song Yang, Jiamou Liu, Kaiqi Zhao*
+
+1. **2022 KDD Graph-Flashback Network for Next Location Recommendation**
+   
+   *Xuan Rao, Lisi Chen, Yong Liu, Shuo Shang, Bin Yao, and Peng Han*
+
+1. **2022 Knowledge-Based Systems Building and exploiting spatial–temporal knowledge graph for next POI recommendation**
+   
+   *Wei Chen, Huaiyu Wan, Shengnan Guo, Haoyu Huang, Shaojie Zheng, Jiamu Li, Shuohao Lin, Youfang Lin*
+
+1. **2021 WWW STAN: Spatio-Temporal Attention Network for Next Location Recommendation**
+   
+   *Yingtao Luo, Qiang Liu, Zhaocheng Liu*
+   
+1. **2020 IJCAI Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**
+   
+   *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux*
+
+1. **2020 IEEE STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**
+   
+   *Haoyu Han, Mengdi Zhang, Min Hou, Fuzheng Zhang, Zhongyuan Wang, Enhong Chen, Hongwei Wang, Jianhui Ma, Qi Liu*
+
+1. **2020 AAAI Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation**
+   
+   *Ke Sun, Tieyun Qian, Tong Chen, Yile LiangQuoc Viet Hung Nguyen, Hongzhi Yin*
+
+1. **2019 AAAI Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation**
+   
+   *Pengpeng Zhao, Haifeng Zhu, Yanchi Liu, Jiajie Xu, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou*
+
+1. **2018 WWW DeepMove: Predicting Human Mobility with Attentional Recurrent Networks**
+   
+   *Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin*
+
+
+   
+
+
+
+
+
