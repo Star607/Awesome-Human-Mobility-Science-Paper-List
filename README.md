@@ -10,6 +10,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
   - [OD Flow](#od_flow)
   - [Mobility Pattern](#mobility_pattern)
   - [RoadNetwork Representation Learning](#roadNetwork_representation_learning)
+  - [POI Recommendation](#poi recommendation)
 
 
 ### [Review](#contents)
