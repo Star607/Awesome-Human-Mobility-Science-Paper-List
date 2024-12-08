@@ -657,7 +657,7 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
    
    *Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin*
 
-### [Travel Time Estimation](#travel_time_estimation)
+### [Travel Time Estimation](#contents)
 
 1. **2023 KDD Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi**
 
