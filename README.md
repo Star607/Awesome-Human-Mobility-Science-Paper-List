@@ -687,7 +687,7 @@ for Traffic Flow Forecasting**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
 
- 1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
+1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
 
    *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
 
