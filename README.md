@@ -9,7 +9,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
   - [Crowd Flow](#crowd-flow)
   - [OD Flow](#od-flow)
   - [Mobility Pattern](#mobility-pattern)
-  - [RoadNetwork Representation Learning](#roadnetwork-representation-learning)
+  - [Road Network & Trajectory Representation Learning](#road-network-and-trajectory-representation-learning)
   - [POI Recommendation](#poi-recommendation)
   - [Travel Time Estimation](#travel-time-estimation)
 
@@ -79,6 +79,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 ### [Individual Trajectory](#contents)
 
 #### [Prediction](#contents)
+
+1. **2025 AAAI C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction**
+
+   *Zichen Wang, Hao Miao, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang*
 
 1. **2024 arxiv REPLAY: Modeling Time-Varying Temporal Regularities of Human Mobility for Location Prediction over Sparse Trajectories**
 
@@ -156,11 +160,18 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 #### [Simulation](#contents)
 
+1. **2025 AAAI Holistic Semantic Representation for Navigational Trajectory Generation**
+
+   *Ji Cao, Tongya Zheng, Qinghong Guo, Yu Wang, Junshu Dai, Shunyu Liu, Jie Yang, Jie Song, Mingli Song*
+
+1. **2025 AAAI GTG: Generalizable Trajectory Generation Model for Urban Mobility**
+
+   *Jingyuan Wang, Yujing Lin, Yudong Li*
+
 1. **2024 TKDE Diff-RNTraj: A Structure-aware Diffusion Model for
 Road Network-constrained Trajectory Generation**
 
-   *Tonglong Wei, Youfang Lin, Shengnan Guo, Yan Lin, Yiheng Huang,
-Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
+   *Tonglong Wei, Youfang Lin, Shengnan Guo, Yan Lin, Yiheng Huang, Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 
 1. **2024 SIGSPATIAL WildGraph: Realistic Graph-based Trajectory Generation for Wildlife**
 
@@ -312,9 +323,17 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 
    *Toru Shimizu, Kota Tsubouchi, Takahiro Yabe*
 
+1. **2021 ICDE A Learning-based Method for Computing Shortest Path Distances on Road Networks**
+
+   *Shuai Huang, Yong Wang, Tianyu Zhao, Guoliang Li*
+
 1. **2021 ICDE E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training**
 
    *Ziquan Fang, Yuntao Du, Lu Chen, Yujia Hu, Yunjun Gao, Gang Chen*
+
+1. **2019 ICDE Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach**
+
+   *Di Yao, Gao Cong, Chao Zhang, Jingping Bi*
 
 1. **2018 ICDE Deep Representation Learning for Trajectory Similarity Computation**
 
@@ -528,19 +547,27 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 
    *M.C. Gonzalez, C.A. Hidalgo, A.L. Barabasi*
 
-### [RoadNetwork Representation Learning](#contents)
+### [Road Network & Trajectory Representation Learning](#contents)
 
-1. **2020 KDD Learning effective road network representation with hierarchical graph neural networks**
+1. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
 
-   *Ning Wu, Wayne Xin Zhao, Jingyuan Wang, Dayan Pan*
+   *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, and Yuxuan Liang*
 
-1. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
+1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
 
-   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison*
+   *Chengkai Han,Jingyuan Wang,Wang Yongyao,Xie Yu,Hao Lin,Li Chao,Junjie Wu*
 
-1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
+1. **2024 Arxiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
 
-   *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
+
+1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
+
+   *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
+
+1. **ICDE 2023 Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
+
+   *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
 
 1. **2023 PAKDD Road network representation learning with vehicle trajectories**
 
@@ -553,15 +580,36 @@ Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 1. **2023 TKDD Road network representation learning: A dual graph-based approach**
 
    *Liang Zhang, Cheng Long*
-   
-1. **2024 Arxiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
 
-   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
+1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
 
-1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
+   *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
 
-   *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
-   
+1. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
+
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison*
+
+1. **2020 KDD Learning effective road network representation with hierarchical graph neural networks**
+
+   *Ning Wu, Wayne Xin Zhao, Jingyuan Wang, Dayan Pan*
+
+1. **2020 TIST On Representation Learning for Road Networks**
+
+   *Meng-Xiang Wang, Wang-Chien Lee, Tao-Yang Fu, Ge Yu*
+
+1. **2020 TITS Relational Fusion Networks: Graph Convolutional Networks for Road Networks**
+
+   *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen*
+
+1. **2019 SIGSPATIAL Graph Convolutional Networks for Road Networks**
+
+   *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen*
+
+1. **2019 SIGSPATIAL Learning Embeddings of Intersections on Road Networks**
+
+   *Meng-xiang Wang, Wang-Chien Lee, Tao-yang Fu, Ge Yu*
+
+
 ### [POI Recommendation](#contents)
 
 1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
