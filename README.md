@@ -6,7 +6,20 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
   - [Review](#review)
   - [Individual Trajectory](#individual-trajectory)
+    - [Prediction](#prediction)
+    - [Recovery](#recovery)
+    - [Simulation](#simulation)
+    - [Privacy Preserving](#privacy-preserving)
+    - [Transfer](#transfer)
+    - [Metrics](#metrics)
+    - [Map Matching](#map-matching)
+    - [Anomaly Detection](#anomaly-detection)
+
   - [Crowd Flow](#crowd-flow)
+    - [Prediction](#prediction-1)
+    - [Simulation](#simulation-1)
+    - [Representation](#representation)
+
   - [OD Flow](#od-flow)
   - [Mobility Pattern](#mobility-pattern)
   - [Road Network & Trajectory Representation Learning](#road-network--trajectory-representation-learning)
