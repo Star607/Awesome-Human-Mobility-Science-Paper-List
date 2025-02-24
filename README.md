@@ -687,6 +687,10 @@ for Traffic Flow Forecasting**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
 
+ 1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
+
+   *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
+
 1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
 
    *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
