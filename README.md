@@ -687,7 +687,7 @@ for Traffic Flow Forecasting**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
 
-1. **ICDE 2023 Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
+1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
 
    *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
 
