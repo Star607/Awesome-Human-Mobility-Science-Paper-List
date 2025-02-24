@@ -26,14 +26,18 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 1. **2024 arxiv Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond**
 
    *Wei Chen, Yuxuan Liang, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Yu Zheng*
+   
+1. **2024 Nature HSSC Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**
+
+   *Chen Gao, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, Yong Li*
+
+1. **2023 TKDE Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**
+
+   *Guangyin Jin, Yuxuan Liang, Yuchen Fang, Zezhi Shao, Jincai Huang, Junbo Zhang, Yu Zheng*
 
 1. **2023 arxiv Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment**
 
    *Fengli Xu, Jun Zhang, Chen Gao, Jie Feng, Yong Li*
-
-1. **2023 arxiv Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**
-
-   *Chen Gao, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, Yong Li*
 
 1. **2023 arxiv A Survey of Generative AI for Intelligent Transportation Systems**
 
@@ -339,7 +343,7 @@ Road Network-constrained Trajectory Generation**
 
    *Xiucheng Li, Kaiqi Zhao, Gao Cong, Christian S. Jensen, Wei Wei*
 
-#### [Match](#contents)
+#### [Map Matching](#contents)
 
 1. **2023 TKDE GraphMM: Graph-based Vehicular Map Matching by Leveraging Trajectory and Road Correlations**
 
@@ -348,6 +352,14 @@ Road Network-constrained Trajectory Generation**
 1. **2022 TKDD L2MM: Learning to Map Matching with Deep Models for Low-Quality GPS Trajectory Data**
 
    *Linli Jiang, Chaoxiong Chen, Chao Chen*
+
+1. **2020 TMC DeepMM: Deep Learning Based Map Matching With Data Augmentation**
+
+   *Jie Feng, Yong Li, Kai Zhao, Zhao Xu, Tong Xia, Jinglin Zhang*
+
+1. **2018 IJGIS Fast map matching, an algorithm integrating hidden Markov model with precomputation**
+
+   *Can Yang, Gyozo Gidofalvi*
 
 #### [Anomaly Detection](#contents)
 
@@ -371,6 +383,93 @@ Road Network-constrained Trajectory Generation**
 
 ### [Crowd Flow](#contents)
 
+#### [Prediction](#contents)
+
+1. **2025 AAAI Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting**
+
+   *Lingxiao Cao, Bin Wang, Guiyuan Jiang, Yanwei Yu, Junyu Dong*
+
+1. **2025 AAAI SSL-STMFormer Self-Supervised Learning SpatioTemporal Entanglement Transformer for Traffic Flow Prediction**
+
+   *Zetao Li,Zheng Hu,Peng Han,Yu Gu,Shimin Cai*
+
+1. **2025 AAAI Responsive Dynamic Graph Disentanglement for Metro Flow Forecasting**
+
+   *Qiang Gao,Zizheng Wang,Li Huang,Goce Trajcevski,Guisong Liu,Xueqin Chen*
+
+1. **2025 AAAI Efficient Traffic Prediction Through Spatio-Temporal Distillation**
+
+   *Qianru Zhang, Xinyi Gao, Haixin Wang, Siu-Ming Yiu, Hongzhi Yin*
+
+1. **2023 AAAI Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction**
+
+   *Jiahao Ji, Jingyuan Wang, Chao Huang, Junjie Wu, Boren Xu, Zhenhe Wu, Junbo Zhang, Yu Zheng*
+
+1. **2023 ICDE When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks**
+
+   *Yuchen Fang, Yanjun Qin, Haiyong Luo, Fang Zhao, Bingbing Xu, Liang Zeng, Chenxing Wang*
+
+1. **2023 ICDE Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting**
+
+   *Shengnan Guo, Youfang Lin, Letian Gong, Chenyu Wang, Zeyu Zhou, Zekai Shen, Yiheng Huang, Huaiyu Wan*
+
+1. **2022 ICML  DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for
+Traffic Flow Forecasting**
+
+   *Shiyong Lan, Yitong Ma, Weikang Huang, Wenwu Wang, Hongyu Yang, Piaoyang Li*
+
+1. **2022 VLDB Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**
+
+   *Zezhi Shao, Zhao Zhang, Wei Wei, Fei Wang, Yongjun Xu, Xin Cao, Christian S. Jensen*
+
+1. **2022 AAAI Graph Neural Controlled Differential Equations for Traffic Forecasting**
+
+   *Jeongwhan Choi, Hwangyong Choi, Jeehyun Hwang, Noseong Park*
+
+1. **2021 KDD Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting**
+
+   *Liangzhe Han, Bowen Du, Leilei Sun, Yanjie Fu, Yisheng Lv, Hui Xiong*
+
+1. **2021 KDD Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting**
+
+   *Zheng Fang, Qingqing Long, Guojie Song, Kunqing Xie*
+
+1. **2020 AAAI GMAN: A Graph Multi-Attention Network for Traffic Prediction**
+
+   *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
+   
+1. **2020 AAAI Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**
+
+   *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*
+
+1. **2020 NeurIPS Adaptive Graph Convolutional Recurrent Network
+for Traffic Forecasting**
+
+   *Lei Bai,  Lina Yao, Can Li, Xianzhi Wang, Can Wang*
+
+1. **2020 WWW Traffic Flow Prediction via Spatial Temporal Graph Neural Network**
+
+   *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia,  Jian Yu*
+
+1. **2019 AAAI Attention Based Spatial-Temporal Graph Convolutional Networks
+for Traffic Flow Forecasting**
+
+   *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan*
+
+1. **2019 IJCAI Graph WaveNet for Deep Spatial-Temporal Graph Modeling**
+
+   *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*
+
+1. **2018 IJCAI Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**
+
+   *Bing Yu, Haoteng Yin, Zhanxing Zhu*
+
+1. **2018 ICLR Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**
+
+   *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*
+
+#### [Simulation](#contents)
+
 1. **2024 AAAI  Social Physics Informed Diffusion Model for Crowd Simulation**
 
    *Hongyi Chen, Jingtao Ding, Yong Li, Yue Wang, XiaoPing Zhang*
@@ -379,11 +478,21 @@ Road Network-constrained Trajectory Generation**
 
    *Zhilun Zhou, Jingtao Ding, Yu Liu, Depeng Jin, Yong Li*
 
+#### [Representation](#contents)
+
 1. **2023 AAAI Generic and Dynamic Graph Representation Learning for Crowd Flow Modeling**
 
    *Liangzhe Han, Ruixing Zhang, Leilei Sun, Bowen Du, Yanjie Fu, Tongyu Zhu*
 
 ### [OD Flow](#contents)
+
+1. **2025 ICLR A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation**
+
+   *Can Rong, Jingtao Ding, Yan Liu, Yong Li*
+   
+1. **2023 arXiv Complexity-aware Large Scale Origin-Destination Network Generation via Diffusion Model**
+
+   *Can Rong, Jingtao Ding, Zhicheng Liu, Yong Li*
 
 1. **2023 TKDE GODDAG: Generating Origin-Destination Flow for New Cities Via Domain Adversarial Training**
 
@@ -609,8 +718,15 @@ Road Network-constrained Trajectory Generation**
 
    *Meng-xiang Wang, Wang-Chien Lee, Tao-yang Fu, Ge Yu*
 
-
 ### [POI Recommendation](#contents)
+
+1. **2025 AAAI POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning**
+
+   *Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao*
+
+1. **2025 AAAI Integrating Personalized Spatio-Temporal Clustering for Next POI Recommendation**
+
+   *Chao Song, Zheng Ren, Li Lu*
 
 1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
    
@@ -714,6 +830,10 @@ Road Network-constrained Trajectory Generation**
 
 ### [Travel Time Estimation](#contents)
 
+1. **2025 AAAI DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**
+
+   *Xiaowei Mao, Yan Lin, Shengnan Guo, Yubin Chen, Xingyu Xian, Haomin Wen, Qisen Xu, Youfang Lin, Huaiyu Wan*
+
 1. **2023 KDD Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi**
 
    *Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen*
@@ -760,7 +880,11 @@ Self-Attention Network for Estimating the Time of Arrival**
    *Yiwen Sun, Kun Fu, Zheng Wang, Donghua Zhou, Kailun Wu, Jieping Ye, Changshui Zhang*
 1. **2020 TKDE TTPNet: A Neural Network for Travel Time  Prediction Based on Tensor Decomposition and  Graph Embedding**
 
-   *Yibin Shen, Cheqing Jin, Jiaxun Hua, Dingjiang Huang*
+    *Yibin Shen, Cheqing Jin, Jiaxun Hua, Dingjiang Huang*
+
+1. **2019 WWW Learning Travel Time Distributions with Deep Generative Model**
+
+   *Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng*
 
 1. **2019 CIKM DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation**
 
