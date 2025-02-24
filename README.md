@@ -551,11 +551,11 @@ Road Network-constrained Trajectory Generation**
 
 1. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
 
-   *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, and Yuxuan Liang*
+   *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, Yuxuan Liang*
 
 1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
 
-   *Chengkai Han,Jingyuan Wang,Wang Yongyao,Xie Yu,Hao Lin,Li Chao,Junjie Wu*
+   *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
 1. **2024 Arxiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
 
