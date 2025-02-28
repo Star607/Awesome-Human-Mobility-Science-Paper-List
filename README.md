@@ -177,6 +177,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 #### [Simulation](#contents)
 
+1. **2025 WWW Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation**
+
+   *Xuan Rao, Shuo Shang, Renhe Jiang, Peng Han, Lisi Chen*
+
 1. **2025 AAAI Holistic Semantic Representation for Navigational Trajectory Generation**
 
    *Ji Cao, Tongya Zheng, Qinghong Guo, Yu Wang, Junshu Dai, Shunyu Liu, Jie Yang, Jie Song, Mingli Song*
@@ -316,6 +320,10 @@ Road Network-constrained Trajectory Generation**
 
 #### [Metrics](#contents)
 
+1. **Parallel Online Similarity Join over Trajectory Streams**
+
+   *Zhongjun Ding, Ke Li, Lisi Chen, Shuo Shang*
+
 1. **2024 SIGSPATIAL T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity Computation**
 
    *Lihuan Li, Hao Xue, Yang Song, Flora Salim*
@@ -397,6 +405,10 @@ Road Network-constrained Trajectory Generation**
 ### [Crowd Flow](#contents)
 
 #### [Prediction](#contents)
+
+1. **2025 WWW STKOpt: Automated Spatio-Temporal Knowledge Optimization for Traffic Prediction**
+
+   *Yayao Hong, Liyue Chen, Leye Wang, Xiuhuai Xie, Guofeng Luo, Cheng Wang, Longbiao Chen*
 
 1. **2025 AAAI Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting**
 
@@ -671,6 +683,10 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
+
+   *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
+
 1. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
 
    *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, Yuxuan Liang*
@@ -926,9 +942,3 @@ Self-Attention Network for Estimating the Time of Arrival**
 1. **2016 ICDM Traffic speed prediction and congestion source exploration: A deep learning method**
 
    *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong*
-   
-
-
-
-
-
