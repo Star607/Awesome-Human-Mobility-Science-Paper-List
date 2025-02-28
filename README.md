@@ -214,6 +214,11 @@ Road Network-constrained Trajectory Generation**
 
    *Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, Tongya Zheng, Mingli Song*
 
+1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on
+Variational Point Processes**
+
+   *Qingyue Long, Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li*
+
 1. **2023 WWW Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**
 
    *Yuan Yuan, Huandong Wang, Jingtao Ding, Depeng Jin, Yong Li*
