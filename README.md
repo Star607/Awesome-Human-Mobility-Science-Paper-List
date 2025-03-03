@@ -325,7 +325,7 @@ Variational Point Processes**
 
 #### [Metrics](#contents)
 
-1. **Parallel Online Similarity Join over Trajectory Streams**
+1. **2025 WWW Parallel Online Similarity Join over Trajectory Streams**
 
    *Zhongjun Ding, Ke Li, Lisi Chen, Shuo Shang*
 
@@ -742,7 +742,11 @@ for Traffic Flow Forecasting**
 
 1. **2020 TIST On Representation Learning for Road Networks**
 
-   *Meng-Xiang Wang, Wang-Chien Lee, Tao-Yang Fu, Ge Yu*
+    *Meng-Xiang Wang, Wang-Chien Lee, Tao-Yang Fu, Ge Yu*
+
+1. **2020 TIST Trembr: Exploring Road Networks for Trajectory Representation Learning**
+
+   *Tao-Yang Fu, Wang-Chien Lee*
 
 1. **2020 TITS Relational Fusion Networks: Graph Convolutional Networks for Road Networks**
 
