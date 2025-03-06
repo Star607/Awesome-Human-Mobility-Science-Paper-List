@@ -732,6 +732,10 @@ for Traffic Flow Forecasting**
 
    *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
 
+1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
+
+   *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
+
 1. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
 
    *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison*
