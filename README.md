@@ -14,12 +14,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
     - [Metrics](#metrics)
     - [Map Matching](#map-matching)
     - [Anomaly Detection](#anomaly-detection)
-
   - [Crowd Flow](#crowd-flow)
     - [Prediction](#prediction-1)
     - [Simulation](#simulation-1)
     - [Representation](#representation)
-
   - [OD Flow](#od-flow)
   - [Mobility Pattern](#mobility-pattern)
   - [Road Network & Trajectory Representation Learning](#road-network--trajectory-representation-learning)
@@ -353,6 +351,10 @@ Variational Point Processes**
 
    *Toru Shimizu, Kota Tsubouchi, Takahiro Yabe*
 
+1. **2021 ICDE T3S: Effective Representation Learning for Trajectory Similarity Computation**
+
+   *Peilun Yang, Hanchen Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin*
+
 1. **2021 ICDE A Learning-based Method for Computing Shortest Path Distances on Road Networks**
 
    *Shuai Huang, Yong Wang, Tianyu Zhao, Guoliang Li*
@@ -360,6 +362,10 @@ Variational Point Processes**
 1. **2021 ICDE E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training**
 
    *Ziquan Fang, Yuntao Du, Lu Chen, Yujia Hu, Yunjun Gao, Gang Chen*
+
+1. **2020 IJCAI Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching**
+
+   *Hanyuan Zhang, Xinyu Zhang, Qize Jiang, Baihua Zheng, Zhenbang Sun, Weiwei Sun, Changhu Wang*
 
 1. **2019 ICDE Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach**
 
