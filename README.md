@@ -26,6 +26,10 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 
 ### [Review](#contents)
+1. **2025 Computing Surveys Vehicle Trajectory Data Processing, Analytics, and Applications: A Survey**
+
+   *Chenxi Liu, Zhu Xiao, Wangchen Long, Tong Li, Hongbo Jiang, Keqin Li*
+
 1. **2024 Information Fusion Deep Learning for Cross-Domain Data Fusion in Urban Computing:  Taxonomy, Advances, and Outlook**
 
    *Xingchen Zou, Yibo Yan, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Tianrui Li, Yu Zheng, Yuxuan Liang*
