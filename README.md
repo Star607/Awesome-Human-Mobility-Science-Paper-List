@@ -773,6 +773,10 @@ for Traffic Flow Forecasting**
 1. **2019 SIGSPATIAL Learning Embeddings of Intersections on Road Networks**
 
    *Meng-xiang Wang, Wang-Chien Lee, Tao-yang Fu, Ge Yu*
+   
+1. **2018 ICDE Road Network & Trajectory Representation Learning**
+
+   *Xiucheng Li, Kaiqi Zhao, Gao Cong, Christian S. Jensen, Wei Wei*
 
 ### [POI Recommendation](#contents)
 
