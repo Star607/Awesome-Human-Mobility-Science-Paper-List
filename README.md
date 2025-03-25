@@ -26,6 +26,11 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
 
 ### [Review](#contents)
+
+1. **2025 arXiv Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey**
+
+   *Yuxuan Liang, Haomin Wen, Yutong Xia, Ming Jin, Bin Yang, Flora Salim, Qingsong Wen, Shirui Pan, Gao Cong*
+
 1. **2025 Computing Surveys Vehicle Trajectory Data Processing, Analytics, and Applications: A Survey**
 
    *Chenxi Liu, Zhu Xiao, Wangchen Long, Tong Li, Hongbo Jiang, Keqin Li*
