@@ -1,6 +1,6 @@
 # Awesome Human Mobility Science Paper List
 
-I have made a list of accepted papers and useful arxiv papers related to human mobility science. Welcome everybody to continue to complement! Additionally, if you are interested in graph learning, please refer to [Graph-Learning-Reading-List](https://github.com/doujiang-zheng/Graph-Learning-Reading-List) and [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List) created by my co-workers.  
+I have made a list of accepted papers and useful arXiv papers related to human mobility science. Welcome everybody to continue to complement! Additionally, if you are interested in graph learning, please refer to [Graph-Learning-Reading-List](https://github.com/doujiang-zheng/Graph-Learning-Reading-List) and [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List) created by my co-workers.  
 
 ## [Contents](#contents)
 
@@ -43,7 +43,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Hao Liu, Hui Xiong*
 
-1. **2024 arxiv Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond**
+1. **2024 arXiv Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond**
 
    *Wei Chen, Yuxuan Liang, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Yu Zheng*
    
@@ -55,11 +55,11 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Guangyin Jin, Yuxuan Liang, Yuchen Fang, Zezhi Shao, Jincai Huang, Junbo Zhang, Yu Zheng*
 
-1. **2023 arxiv Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment**
+1. **2023 arXiv Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment**
 
    *Fengli Xu, Jun Zhang, Chen Gao, Jie Feng, Yong Li*
 
-1. **2023 arxiv A Survey of Generative AI for Intelligent Transportation Systems**
+1. **2023 arXiv A Survey of Generative AI for Intelligent Transportation Systems**
 
    *Huan Yan, Yong Li*
 
@@ -108,7 +108,7 @@ I have made a list of accepted papers and useful arxiv papers related to human m
 
    *Zichen Wang, Hao Miao, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang*
 
-1. **2024 arxiv REPLAY: Modeling Time-Varying Temporal Regularities of Human Mobility for Location Prediction over Sparse Trajectories**
+1. **2024 arXiv REPLAY: Modeling Time-Varying Temporal Regularities of Human Mobility for Location Prediction over Sparse Trajectories**
 
    *Bangchao Deng, Bingqing Qu, Pengyang Wang, Dingqi Yang*
 
@@ -254,7 +254,7 @@ Variational Point Processes**
 
    *Wenjun Jiang, Wayne Xin Zhao, Jingyuan Wang, Jiawei Jiang*
 
-1. **2023 arxiv Learning the complexity of urban mobility with deep generative collaboration network**
+1. **2023 arXiv Learning the complexity of urban mobility with deep generative collaboration network**
 
    *Yong Li, Yuan Yuan, Jingtao Ding, Depeng Jin*
 
@@ -715,7 +715,11 @@ for Traffic Flow Forecasting**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
-1. **2024 Arxiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
+1. **2024 arXiv TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
+
+   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
+
+1. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
 
    *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
@@ -726,6 +730,9 @@ for Traffic Flow Forecasting**
 1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
 
    *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
+
+1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
+   *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
 
 1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
 
