@@ -715,6 +715,10 @@ for Traffic Flow Forecasting**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
+1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
+
 1. **2024 arXiv TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
 
    *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
