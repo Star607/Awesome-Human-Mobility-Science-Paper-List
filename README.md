@@ -703,6 +703,14 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
+
+   *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S. Jensen*
+
+1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
+
+   *Silin Zhou, Shuo Shang, Lisi Chen, Christian S. Jensen, Panos Kalnis*
+
 1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
 
    *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
