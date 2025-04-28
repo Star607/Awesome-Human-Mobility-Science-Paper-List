@@ -24,8 +24,11 @@ I have made a list of accepted papers and useful arXiv papers related to human m
   - [POI Recommendation](#poi-recommendation)
   - [Travel Time Estimation](#travel-time-estimation)
 
-
 ### [Review](#contents)
+
+1. **2025 TKDE UniTE: A Survey and Unified Pipeline for Pre-Training Spatiotemporal Trajectory Embeddings**
+
+   *Yan Lin, Zeyu Zhou, Yicheng Liu, Haochen Lv, Haomin Wen, Tianyi Li, Yushuai Li, Christian S. Jensen, Shengnan Guo, Youfang Lin, Huaiyu Wan*
 
 1. **2025 arXiv Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey**
 
