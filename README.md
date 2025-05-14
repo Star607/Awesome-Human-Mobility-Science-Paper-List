@@ -54,6 +54,10 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Chen Gao, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, Yong Li*
 
+1. **2023 TKDE Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study**
+
+   *Danlei Hu, Lu Chen, Hanxi Fang, Ziquan Fang, Tianyi Li, and Yunjun Gao*
+
 1. **2023 TKDE Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**
 
    *Guangyin Jin, Yuxuan Liang, Yuchen Fang, Zezhi Shao, Jincai Huang, Junbo Zhang, Yu Zheng*
@@ -264,6 +268,10 @@ Variational Point Processes**
 1. **2022 KDD Activity Trajectory Generation via Modeling Spatiotemporal Dynamics**
 
    *Yuan Yuan, Jingtao Ding, Huandong Wang, Depeng Jin, Yong Li*
+
+1. **2022 KDD Spatio-Temporal Trajectory Similarity Learning in Road Networks**
+
+   *Ziquan Fang, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen*
 
 1. **2022 TCSS TrajSGAN: A Semantic-Guiding Adversarial Network for Urban Trajectory Generation**
 
