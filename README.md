@@ -269,10 +269,6 @@ Variational Point Processes**
 
    *Yuan Yuan, Jingtao Ding, Huandong Wang, Depeng Jin, Yong Li*
 
-1. **2022 KDD Spatio-Temporal Trajectory Similarity Learning in Road Networks**
-
-   *Ziquan Fang, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen*
-
 1. **2022 TCSS TrajSGAN: A Semantic-Guiding Adversarial Network for Urban Trajectory Generation**
 
    *Jing Zhang, Qihan Huang, Yirui Huang, Qian Ding, Pei-Wei Tsai*
@@ -362,6 +358,10 @@ Variational Point Processes**
 1. **2023 AAAI GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM**
 
    *Silin Zhou, Jing Li, Hao Wang, Shuo Shang, Peng Han*
+
+1. **2022 KDD Spatio-Temporal Trajectory Similarity Learning in Road Networks**
+
+   *Ziquan Fang, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen*
 
 1. **2022 KDD TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation**
 
