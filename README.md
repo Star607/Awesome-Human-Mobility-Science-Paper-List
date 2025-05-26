@@ -714,6 +714,10 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
+
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
+
 1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
 
    *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S. Jensen*
@@ -808,10 +812,6 @@ for Traffic Flow Forecasting**
 1. **2019 SIGSPATIAL Learning Embeddings of Intersections on Road Networks**
 
    *Meng-xiang Wang, Wang-Chien Lee, Tao-yang Fu, Ge Yu*
-   
-1. **2018 ICDE Road Network & Trajectory Representation Learning**
-
-   *Xiucheng Li, Kaiqi Zhao, Gao Cong, Christian S. Jensen, Wei Wei*
 
 ### [POI Recommendation](#contents)
 
