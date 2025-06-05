@@ -38,6 +38,11 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Chenxi Liu, Zhu Xiao, Wangchen Long, Tong Li, Hongbo Jiang, Keqin Li*
 
+1. **2024 Computing Surveys An Interdisciplinary Survey on Origin-destination Flows
+Modeling: Theory and Techniques**
+
+   *Can Rong, Jingtao Ding, Yong Li*
+
 1. **2024 Information Fusion Deep Learning for Cross-Domain Data Fusion in Urban Computing:  Taxonomy, Advances, and Outlook**
 
    *Xingchen Zou, Yibo Yan, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Tianrui Li, Yu Zheng, Yuxuan Liang*
