@@ -719,6 +719,14 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
+
+   *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
+
+1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
+
+   *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
+
 1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
