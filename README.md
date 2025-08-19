@@ -736,10 +736,6 @@ with ST Feature Domain Generation**
 
    *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
 
-1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
-
-   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
-
 1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
 
    *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
@@ -748,14 +744,6 @@ with ST Feature Domain Generation**
 Learning—Extended Version**
 
    *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
-
-1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
-
-   *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S Jensen*
-
-1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
-
-   *Silin Zhou, Shuo Shang, Lisi Chen, Christian S Jensen, Panos Kalnis*
 
 1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
 
@@ -792,10 +780,6 @@ Learning—Extended Version**
 1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
-
-1. **2024 arXiv TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
-
-   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
 
 1. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
 
