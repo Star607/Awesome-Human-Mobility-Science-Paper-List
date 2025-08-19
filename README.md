@@ -745,10 +745,6 @@ Learning—Extended Version**
 
    *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
 
-1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
-
-   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
-
 1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
@@ -756,6 +752,10 @@ Learning—Extended Version**
 1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
 
    *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S. Jensen*
+
+1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
+
+   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
 
 1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
 
