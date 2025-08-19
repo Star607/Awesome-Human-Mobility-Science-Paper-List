@@ -719,13 +719,47 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2025 arXiv TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
+
+   *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
+
+1. **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
+
+   *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
+
+1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling
+with ST Feature Domain Generation**
+
+   *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
+
 1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
 
    *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
 
+1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
+
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
+
 1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
 
    *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
+
+1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation
+Learning—Extended Version**
+
+   *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
+
+1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
+
+   *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S Jensen*
+
+1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
+
+   *Silin Zhou, Shuo Shang, Lisi Chen, Christian S Jensen, Panos Kalnis*
+
+1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
+
+   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
 
 1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
 
@@ -750,6 +784,10 @@ for Traffic Flow Forecasting**
 1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
+
+1. **2024 arXiv TrajAgent: An LLM-based Agent Framework for Automated Trajectory Modeling via Collaboration of Large and Small Models**
+
+   *Yuwei Du, Jie Feng, Jie Zhao, Jian Yuan, Yong Li*
 
 1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
