@@ -850,6 +850,50 @@ Learning—Extended Version**
 
 ### [POI Recommendation](#contents)
 
+1. **2026 AAAI TOOL4POI: A Tool-Augmented LLM Framework for Next POI Recommendation**
+
+   *Dongsheng Wang, Shen Gao, Chengrui Huang, Yuxi Huang, Ruixiang Feng, Shuo Shang*
+
+1. **2025 Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**
+
+   *Penglong Zhai, Jie Li, Fanyi Di, Yue Liu, Yifang Yuan, Jie Huang, Peng Wu, Sicong Wang, Mingyang Yin, Tingting Hu, Yao Xu, Xin Li*
+   
+1. **2025 Geography-Aware Large Language Models for Next POI Recommendation**
+
+   *Zhao Liu, Wei Liu, Huaijie Zhu, Jianxing Yu, Jian Yin*
+
+1. **2025 CIKM TCFMamba: Trajectory Collaborative Filtering Mamba for Debiased Point-of-Interest Recommendation**
+
+   *Jin Qian, Shiyu Song, Xin Zhang, Dongjing Wang, He Weng, Haiping Zhang, Dongjin Yu*
+  
+1. **2025 CIKM MGSTDN:Multi-Granularity Spatial-Temporal Diffusion Network for Next POI Recommendation**
+
+   *Zhuang Zhuang, Haitao Yuan, Shanshan Feng, Heng Qi, Yanming Shen, Baocai Yin*
+
+1. **2025 ACM MM IM-POI: Bridging ID and Multi-modal Gaps in Next POI Recommendation**
+
+   *Siyuan Huang, Jiahui Jin, Xin Lin, Xigang Sun, Yukun Ban*
+
+1. **2025 TKDE Joint Modeling of Multimodal Information Based on Dynamic and Static Knowledge Graphs for Next POI Recommendation**
+
+   *Xiaoxiao Sun, Zhengbo Gao, Dongjin Yu, Boyi Huang*
+
+1. **2025 IJCAI Disentangled and Personalized Representation Learning for Next Point-of-Interest Recommendation**
+
+   *Xuan Rao, Shuo Shang, Lisi Chen, Renhe Jiang, Peng Han*
+
+1. **2025 KDD Generative Next POI Recommendation with Semantic ID**
+
+   *Dongsheng Wang, Yuxi Huang, Shen Gao, Yifan Wang, Chengrui Huang, Shuo Shang*
+
+1. **2025 KDD Enhancing Large Language Models for Mobility Analytics with Semantic Location Tokenization**
+
+   *Yile Chen, Yicheng Tao, Yue Jiang, Shuai Liu, Han Yu, Gao Cong*
+
+1. **2025 KDD A Universal Model for Human Mobility Prediction**
+
+   *Qingyue Long, Yuan Yuan, Yong Li*
+   
 1. **2025 AAAI POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning**
 
    *Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao*
@@ -857,6 +901,10 @@ Learning—Extended Version**
 1. **2025 AAAI Integrating Personalized Spatio-Temporal Clustering for Next POI Recommendation**
 
    *Chao Song, Zheng Ren, Li Lu*
+
+1. **2025 AAAI Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning**
+
+   *Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu, Zhixu Li*
 
 1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
    
