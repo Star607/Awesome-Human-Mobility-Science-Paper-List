@@ -719,6 +719,10 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2026 AAAI Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learnin**
+
+   *Jingtian Ma, Jingyuan Wang, Leong Hou U*
+
 1. **2025 arXiv TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
 
    *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
