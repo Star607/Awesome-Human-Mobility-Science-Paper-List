@@ -178,6 +178,18 @@ Modeling: Theory and Techniques**
 
 #### [Recovery](#contents)
 
+1. **2025 NeurIPS PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models**
+
+   *Tonglong Wei, Yan Lin, Youfang Lin, Shengnan Guo, Jilin Hu, Haitao Yuan, Gao Cong, Huaiyu Wan*
+
+1. **2023 VLDB TERI: An Effective Framework for Trajectory Recovery with Irregular Time Intervals**
+
+   *Yile Chen, Gao Cong, Anda Cuauhtemoc*
+
+1. **2023 ICDE RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer**
+
+   *Yuqi Chen, Hanyuan Zhang, Weiwei Sun, Baihua Zheng*
+
 1. **2023 TKDD History-enhanced and Uncertainty-aware Trajectory Recovery via Attentive Neural Network**
 
    *Tong Xia, Yong Li, Yunhan Qi, Jie Feng, Fengli Xu, Funing Sun, Diansheng Guo, Depeng Jin*
@@ -727,9 +739,13 @@ for Traffic Flow Forecasting**
 
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
 
-1. **2025 arXiv TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
+1. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
 
    *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
+
+1. **2025 NeurIPS TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**
+
+   *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
 
 1. **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
 
