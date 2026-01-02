@@ -739,6 +739,9 @@ for Traffic Flow Forecasting**
 
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
 
+1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
+   *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
+
 1. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
 
    *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
@@ -796,10 +799,6 @@ Learning—Extended Version**
 1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
-
-1. **2024 arXiv TrajAgent: An LLM-based Agent Framework for Automated Trajectory Modeling via Collaboration of Large and Small Models**
-
-   *Yuwei Du, Jie Feng, Jie Zhao, Jian Yuan, Yong Li*
 
 1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
