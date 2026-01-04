@@ -735,6 +735,10 @@ for Traffic Flow Forecasting**
 
    *Jingtian Ma, Jingyuan Wang, Leong Hou U*
 
+1. **2025 VLDB VecCity: A taxonomy-guided library for map entity representation learning**
+
+   *Wentao Zhang, Jingyuan Wang, Yifan Yang, Leong Hou U*
+
 1. **2025 Geo-spatial Information Science MSRFormer: road network representation learning using multi-scale feature fusion of heterogeneous spatial interactions**
 
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
