@@ -804,6 +804,10 @@ Learning—Extended Version**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
+1. **2025 IJCAI HygMap: Representing All Types of Map Entities via Heterogeneous Hypergraph**
+
+   *Yifan Yang, Jingyuan Wang, Xie Yu, Yibang Tang*
+
 1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
