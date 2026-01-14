@@ -731,6 +731,10 @@ for Traffic Flow Forecasting**
 
 ### [Road Network & Trajectory Representation Learning](#contents)
 
+1. **2026 AAAI Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**
+
+   *Yanwei Yu, Hong Xia, Shaoxuan Gu, Xingyu Zhao, Dongliang Chen, Yuan Cao*
+
 1. **2026 AAAI Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning**
 
    *Jingtian Ma, Jingyuan Wang, Leong Hou U*
