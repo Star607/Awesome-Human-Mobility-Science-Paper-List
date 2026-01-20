@@ -414,6 +414,10 @@ Variational Point Processes**
 
 #### [Map Matching](#contents)
 
+1. **2026 AAAI DiffMM: Efficient Method for Accurate Noisy and Sparse Trajectory Map Matching via One Step Diffusion**
+
+   *Chenxu Han, Sean Bin Yang, Jilin Hu*
+
 1. **2023 TKDE GraphMM: Graph-based Vehicular Map Matching by Leveraging Trajectory and Road Correlations**
 
    *Yu Liu, Qian Ge, Wei Luo, Qiang Huang, Lei Zou, Haixu Wang, Xin Li, Chang Liu*
