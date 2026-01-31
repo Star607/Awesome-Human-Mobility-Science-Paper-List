@@ -4,27 +4,33 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
 ## [Contents](#contents)
 
-  - [Review](#review)
-  - [Individual Trajectory](#individual-trajectory)
-    - [Prediction](#prediction)
-    - [Recovery](#recovery)
-    - [Simulation](#simulation)
-    - [Privacy Preserving](#privacy-preserving)
-    - [Transfer](#transfer)
-    - [Metrics](#metrics)
-    - [Map Matching](#map-matching)
-    - [Anomaly Detection](#anomaly-detection)
-  - [Crowd Flow](#crowd-flow)
-    - [Prediction](#prediction-1)
-    - [Simulation](#simulation-1)
-    - [Representation](#representation)
-  - [OD Flow](#od-flow)
-  - [Mobility Pattern](#mobility-pattern)
-  - [Road Network & Trajectory Representation Learning](#road-network--trajectory-representation-learning)
-  - [POI Recommendation](#poi-recommendation)
-  - [Travel Time Estimation](#travel-time-estimation)
+- [Awesome Human Mobility Science Paper List](#awesome-human-mobility-science-paper-list)
+  - [Contents](#contents)
+    - [Review](#review)
+    - [Individual Trajectory](#individual-trajectory)
+      - [Prediction](#prediction)
+      - [Recovery](#recovery)
+      - [Simulation](#simulation)
+      - [Privacy Preserving](#privacy-preserving)
+      - [Transfer](#transfer)
+      - [Metrics](#metrics)
+      - [Map Matching](#map-matching)
+      - [Anomaly Detection](#anomaly-detection)
+    - [Crowd Flow](#crowd-flow)
+      - [Prediction](#prediction-1)
+      - [Simulation](#simulation-1)
+      - [Representation](#representation)
+    - [OD Flow](#od-flow)
+    - [Mobility Pattern](#mobility-pattern)
+    - [Road Network \& Trajectory Representation Learning](#road-network--trajectory-representation-learning)
+    - [POI Recommendation](#poi-recommendation)
+    - [Travel Time Estimation](#travel-time-estimation)
 
 ### [Review](#contents)
+
+1. **2026 TKDE Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review**
+
+   *Yuchen Fang, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng*
 
 1. **2025 TKDE UniTE: A Survey and Unified Pipeline for Pre-Training Spatiotemporal Trajectory Embeddings**
 
