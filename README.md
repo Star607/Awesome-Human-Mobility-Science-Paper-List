@@ -148,6 +148,10 @@ Modeling: Theory and Techniques**
 
    *Yuwei Du, Jie Feng, Jian Yuan, Yong Li*
 
+1. **2025 KDD LLMLight: Large Language Models as Traffic Signal Control Agents**
+
+   *Siqi Lai, Zhao Xu, Weijia Zhang, Hao Liu, Hui Xiong*
+
 1. **2025 NAACL Main AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction**
 
    *Jie Feng, Yuwei Du, Jie Zhao, Yong Li*
@@ -179,6 +183,10 @@ Modeling: Theory and Techniques**
 1. **2024 arXiv OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents**
 
    *Yuwei Yan, Qingbin Zeng, Zhiheng Zheng, Jingzhe Yuan, Jie Feng, Jun Zhang, Fengli Xu, Yong Li*
+
+1. **2023 arXiv GeoGPT: Understanding and Processing Geospatial Tasks through An Autonomous GPT**
+
+   *Yifan Zhang, Cheng Wei, Shangyou Wu, Zhengting He, Wenhao Yu*
 
 ### [Individual Trajectory](#contents)
 
