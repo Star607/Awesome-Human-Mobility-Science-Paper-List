@@ -7,6 +7,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 - [Awesome Human Mobility Science Paper List](#awesome-human-mobility-science-paper-list)
   - [Contents](#contents)
     - [Review](#review)
+    - [Spatiotemporal Agents](#spatiotemporal-agents)
     - [Individual Trajectory](#individual-trajectory)
       - [Prediction](#prediction)
       - [Recovery](#recovery)
@@ -117,6 +118,67 @@ Modeling: Theory and Techniques**
 
    *Yu Zheng*
 
+### [Spatiotemporal Agents](#spatiotemporal-agents)
+
+1. **2026 arXiv STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning**
+
+   *Juntong Ni, Shiyu Wang, Ming Jin, Qi He, Wei Jin*
+
+1. **2026 arXiv Coordinated Pandemic Control with Large Language Model Agents as Policymaking Assistants**
+
+   *Ziyi Shi, Xusen Guo, Hongliang Lu, Mingxing Peng, Haotian Wang, Zheng Zhu, Zhenning Li, Yuxuan Liang, Xinhu Zheng, Hai Yang*
+
+1. **2026 WWW AgentSense: LLMs Empower Generalizable and Explainable Web-Based Participatory Urban Sensing**
+
+   *Xusen Guo, Mingxing Peng, Xixuan Hao, Xingchen Zou, Qiongyan Wang, Sijie Ruan, Yuxuan Liang*
+
+1. **2025 arXiv AMAP Agentic Planning Technical Report**
+
+   *AMAP AI Agent LLM Team*
+
+1. **2025 arXiv TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control**
+
+   *Yuwei Du, Jun Zhang, Jie Feng, Zhicheng Liu, Jian Yuan, Yong Li*
+
+1. **2025 arXiv AgentSUMO: An Agentic Framework for Interactive Simulation Scenario Generation in SUMO via Large Language Models**
+
+   *Minwoo Jeong, Jeeyun Chang, Yoonjin Yoon*
+
+1. **2025 arXiv CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**
+
+   *Yuwei Du, Jie Feng, Jian Yuan, Yong Li*
+
+1. **2025 NAACL Main AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction**
+
+   *Jie Feng, Yuwei Du, Jie Zhao, Yong Li*
+
+1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
+
+   *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
+
+1. **2025 ACL Industry PlanGPT: Enhancing Urban Planning with a Tailored Agent Framework**
+
+   *He Zhu, Guanhua Chen, Wenjia Zhang*
+
+1. **2025 ACL Findings Open-Set Living Need Prediction with Large Language Models**
+
+   *Xiaochong Lan, Jie Feng, Yizhou Sun, Chen Gao, Jiahuan Lei, Xinlei Shi, Hengliang Luo, Yong Li*
+
+1. **2024 ACL Findings GeoAgent: To Empower LLMs using Geospatial Tools for Address Standardization**
+
+   *Chenghua Huang, Shisong Chen, Zhixu Li, Jianfeng Qu, Yanghua Xiao, Jiaxin Liu, Zhigang Chen*
+
+1. **2024 NeurIPS Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**
+
+   *Jiawei Wang, Renhe Jiang, Chuang Yang, Zengqing Wu, Makoto Onizuka, Ryosuke Shibasaki, Noboru Koshizuka, Chuan Xiao*
+
+1. **2024 arXiv Large Language Model for Participatory Urban Planning**
+
+   *Zhilun Zhou, Yuming Lin, Depeng Jin, Yong Li*
+
+1. **2024 arXiv OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents**
+
+   *Yuwei Yan, Qingbin Zeng, Zhiheng Zheng, Jingzhe Yuan, Jie Feng, Jun Zhang, Fengli Xu, Yong Li*
 
 ### [Individual Trajectory](#contents)
 
@@ -758,6 +820,7 @@ for Traffic Flow Forecasting**
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
 
 1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
+
    *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
 
 1. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
