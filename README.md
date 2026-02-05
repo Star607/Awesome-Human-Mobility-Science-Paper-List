@@ -192,6 +192,10 @@ Modeling: Theory and Techniques**
 
 #### [Prediction](#contents)
 
+1. **2025 SIGSPATIAL UniMove: A Unified Model for Multi-city Human Mobility Prediction**
+
+   *Chonghua Han, Yuan Yuan, Yukun Liu, Jingtao Ding, Jie Feng, Yong Li*
+
 1. **2025 AAAI C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction**
 
    *Zichen Wang, Hao Miao, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang*
