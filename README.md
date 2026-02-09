@@ -430,6 +430,14 @@ Variational Point Processes**
 
    *Yu Wang, Tongya Zheng, Yuxuan Liang, Shunyu Liu, Mingli Song*
 
+1. **2024 CIKM CrossPred: A Cross-City Mobility Prediction Framework for Long-Distance Travelers via POI Feature Matching**
+
+   *Shuai Xu, Donghai Guan*
+
+1. **2022 TIST Doing More with Less: Overcoming Data Scarcity for POI Recommendation via Cross-Region Transfer**
+
+   *Vinayak Gupta, Srikanta Bedathur*
+
 1. **2020 WWW What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities**
 
    *Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*
