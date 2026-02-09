@@ -813,41 +813,45 @@ for Traffic Flow Forecasting**
 
    *M.C. Gonzalez, C.A. Hidalgo, A.L. Barabasi*
 
-### [Road Network & Trajectory Representation Learning](#contents)
+### [Road Network \& Trajectory Representation Learning](#contents)
 
-1. **2026 AAAI Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**
+1. **2026 AAAI Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning**
+
+   *Qinghong Guo, Yu Wang, Ji Cao, Tongya Zheng, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin*
+
+2. **2026 AAAI Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**
 
    *Yanwei Yu, Hong Xia, Shaoxuan Gu, Xingyu Zhao, Dongliang Chen, Yuan Cao*
 
-1. **2026 AAAI Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning**
+3. **2026 AAAI Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning**
 
    *Jingtian Ma, Jingyuan Wang, Leong Hou U*
 
-1. **2025 VLDB VecCity: A taxonomy-guided library for map entity representation learning**
+4. **2025 VLDB VecCity: A taxonomy-guided library for map entity representation learning**
 
    *Wentao Zhang, Jingyuan Wang, Yifan Yang, Leong Hou U*
 
-1. **2025 Geo-spatial Information Science MSRFormer: road network representation learning using multi-scale feature fusion of heterogeneous spatial interactions**
+5. **2025 Geo-spatial Information Science MSRFormer: road network representation learning using multi-scale feature fusion of heterogeneous spatial interactions**
 
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
 
-1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
+6. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
 
    *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
 
-1. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
+7. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
 
    *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
 
-1. **2025 NeurIPS TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**
+8. **2025 NeurIPS TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**
 
    *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
 
-1. **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
+9.  **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
 
    *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
 
-1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling
+10. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling
 with ST Feature Domain Generation**
 
    *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
@@ -856,11 +860,11 @@ with ST Feature Domain Generation**
 
    *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
 
-1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
+2. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
 
    *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
 
-1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation
+3. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation
 Learning—Extended Version**
 
    *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
@@ -869,104 +873,108 @@ Learning—Extended Version**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
 
-1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
+2. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
 
    *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S. Jensen*
 
-1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
+3. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
 
    *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
 
-1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
+4. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
 
    *Silin Zhou, Shuo Shang, Lisi Chen, Christian S. Jensen, Panos Kalnis*
 
-1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
+5. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
 
    *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
 
-1. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
+6. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
 
    *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, Yuxuan Liang*
 
-1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
+7. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
-1. **2025 IJCAI HygMap: Representing All Types of Map Entities via Heterogeneous Hypergraph**
+8. **2025 IJCAI HygMap: Representing All Types of Map Entities via Heterogeneous Hypergraph**
 
    *Yifan Yang, Jingyuan Wang, Xie Yu, Yibang Tang*
 
-1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+9. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
 
-1. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
+10. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
 
    *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
-1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
+11. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
 
-1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
+12. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
 
    *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
 
-1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
+13. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
    *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
 
-1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
+14. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
 
    *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
 
-1. **2023 PAKDD Road network representation learning with vehicle trajectories**
+15. **2023 PAKDD Road network representation learning with vehicle trajectories**
 
    *Stefan Schestakov, Paul Heinemeyer, Elena Demidova*
 
-1. **2023 EDBT Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**
+16. **2023 EDBT Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**
 
    *Yanchuan Chang, Egemen Tanin, Xin Cao, Jianzhong Qi* 
 
-1. **2023 TKDD Road network representation learning: A dual graph-based approach**
+17. **2023 TKDD Road network representation learning: A dual graph-based approach**
 
    *Liang Zhang, Cheng Long*
 
-1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
+18. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
 
    *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
 
-1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
+19. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
 
    *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
 
-1. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
+20. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
 
    *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison*
 
-1. **2020 KDD Learning effective road network representation with hierarchical graph neural networks**
+21. **2020 KDD Learning effective road network representation with hierarchical graph neural networks**
 
    *Ning Wu, Wayne Xin Zhao, Jingyuan Wang, Dayan Pan*
 
-1. **2020 TIST On Representation Learning for Road Networks**
+22. **2020 TIST On Representation Learning for Road Networks**
 
     *Meng-Xiang Wang, Wang-Chien Lee, Tao-Yang Fu, Ge Yu*
 
-1. **2020 TIST Trembr: Exploring Road Networks for Trajectory Representation Learning**
+23. **2020 TIST Trembr: Exploring Road Networks for Trajectory Representation Learning**
 
    *Tao-Yang Fu, Wang-Chien Lee*
 
-1. **2020 TITS Relational Fusion Networks: Graph Convolutional Networks for Road Networks**
+24. **2020 TITS Relational Fusion Networks: Graph Convolutional Networks for Road Networks**
 
    *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen*
 
-1. **2019 SIGSPATIAL Graph Convolutional Networks for Road Networks**
+25. **2019 SIGSPATIAL Graph Convolutional Networks for Road Networks**
 
    *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen*
 
-1. **2019 SIGSPATIAL Learning Embeddings of Intersections on Road Networks**
+26. **2019 SIGSPATIAL Learning Embeddings of Intersections on Road Networks**
 
    *Meng-xiang Wang, Wang-Chien Lee, Tao-yang Fu, Ge Yu*
+
+27. **2018 IEEE BigData On Network Embedding for Machine Learning on Road Networks: A Case Study on the Danish Road Network**
+
+   *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen, Kristian Torp*
 
 ### [POI Recommendation](#contents)
 
