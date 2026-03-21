@@ -16,7 +16,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
       - [Transfer](#transfer)
       - [Metrics](#metrics)
       - [Map Matching](#map-matching)
-      - [\[Trajectory-User Linking\]](#trajectory-user-linking)
+      - [Trajectory-User Linking](#trajectory-user-linking)
       - [Anomaly Detection](#anomaly-detection)
     - [Crowd Flow](#crowd-flow)
       - [Prediction](#prediction-1)
@@ -523,7 +523,7 @@ Variational Point Processes**
 
    *Can Yang, Gyozo Gidofalvi*
 
-#### [Trajectory-User Linking]
+#### [Trajectory-User Linking](#contents)
 
 1. **2025 AAAI Scalable Trajectory-User Linking with Dual-Stream Representation Networks**
 
