@@ -16,6 +16,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
       - [Transfer](#transfer)
       - [Metrics](#metrics)
       - [Map Matching](#map-matching)
+      - [\[Trajectory-User Linking\]](#trajectory-user-linking)
       - [Anomaly Detection](#anomaly-detection)
     - [Crowd Flow](#crowd-flow)
       - [Prediction](#prediction-1)
@@ -521,6 +522,32 @@ Variational Point Processes**
 1. **2018 IJGIS Fast map matching, an algorithm integrating hidden Markov model with precomputation**
 
    *Can Yang, Gyozo Gidofalvi*
+
+#### [Trajectory-User Linking]
+
+1. **2025 AAAI Scalable Trajectory-User Linking with Dual-Stream Representation Networks**
+
+   *Hao Zhang, Wei Chen, Xingyu Zhao, Jianpeng Qi, Guiyuan Jiang, Yanwei Yu*
+
+1. **2024 TKDD Trajectory-User Linking via Hierarchical SpatioTemporal Attention Networks**
+
+   *Wei Chen, Chao Huang, Yanwei Yu, Yongguo Jiang, Junyu Dong*
+
+1. **2023 WSDM S2TUL: A Semi-Supervised Framework for Trajectory-User Linking**
+
+   *Liwei Deng, Hao Sun, Yan Zhao, Shuncheng Liu, Kai Zheng*
+
+1. **2022 IJCAI Mutual Distillation Learning Network for Trajectory-User Linking**
+
+   *Wei Chen, Shuzhe Li, Chao Huang, Yanwei Yu, Yongguo Jiang, Junyu Dong*
+
+1. **2020 AAMAS Trajectory-User Linking with Attentive Recurrent Network**
+
+   *Congcong Miao, Jilong Wang, Heng Yu, Weichen Zhang, Yinyao Qi*
+
+1. **2018 IJCAI Trajectory-User Linking via Variational AutoEncoder**
+
+   *Fan Zhou, Qiang Gao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Fengli Zhang*
 
 #### [Anomaly Detection](#contents)
 
