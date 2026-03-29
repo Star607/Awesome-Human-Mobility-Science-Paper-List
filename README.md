@@ -493,13 +493,30 @@ Variational Point Processes**
 
    *Hanyuan Zhang, Xinyu Zhang, Qize Jiang, Baihua Zheng, Zhenbang Sun, Weiwei Sun, Changhu Wang*
 
+1. **2020 VLDB Fast Subtrajectory Similarity Search in Road Networks
+under Weighted Edit Distance Constraints**
+
+   *Satoshi Koide, Chuan Xiao, Yoshiharu Ishikawa*
+
 1. **2019 ICDE Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach**
 
    *Di Yao, Gao Cong, Chao Zhang, Jingping Bi*
 
-1. **2018 ICDE Deep Representation Learning for Trajectory Similarity Computation**
+1. **2019 ICDE Distributed In-memory Trajectory Similarity Search and Join on Road Network**
+
+   *Haitao Yuan, Guoliang Li*
+
+2. **2018 ICDE Deep Representation Learning for Trajectory Similarity Computation**
 
    *Xiucheng Li, Kaiqi Zhao, Gao Cong, Christian S. Jensen, Wei Wei*
+
+1. **2018 SIGMOD DITA: Distributed In-Memory Trajectory Analytics**
+
+   *Zeyuan Shang, Guoliang Li, Zhifeng Bao*
+
+1. **2017 VLDB Trajectory Similarity Join in Spatial Networks**
+
+   *Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis*
 
 #### [Map Matching](#contents)
 
