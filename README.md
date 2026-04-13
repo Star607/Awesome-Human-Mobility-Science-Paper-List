@@ -326,8 +326,7 @@ Road Network-constrained Trajectory Generation**
 
    *Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, Tongya Zheng, Mingli Song*
 
-1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on
-Variational Point Processes**
+1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on Variational Point Processes**
 
    *Qingyue Long, Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li*
 
@@ -903,6 +902,10 @@ for Traffic Flow Forecasting**
 
    *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
 
+1. **2025 NeurIPS UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang*
+
 1.  **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
 
    *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
@@ -911,6 +914,10 @@ for Traffic Flow Forecasting**
 with ST Feature Domain Generation**
 
    *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
+
+1. **2025 TMC Semantic-Enhanced Representation Learning for Road Networks With Temporal Dynamics**
+
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
 1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
 
@@ -957,13 +964,9 @@ Learning—Extended Version**
 
    *Yifan Yang, Jingyuan Wang, Xie Yu, Yibang Tang*
 
-1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+1. **2024 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
 
-   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
-
-1. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
-
-   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
+   *Yan Lin, Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin*
 
 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
@@ -974,6 +977,7 @@ Learning—Extended Version**
    *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
 
 1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
+
    *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
 
 1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
