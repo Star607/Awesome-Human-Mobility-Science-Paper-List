@@ -121,6 +121,10 @@ Modeling: Theory and Techniques**
 
 ### [Spatiotemporal Agents](#spatiotemporal-agents)
 
+1. **2026 arXiv MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios**
+
+   *Zhiheng Song, Jingshuai Zhang, Chuan Qin, Chao Wang, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu, Hengshu Zhu*
+
 1. **2026 arXiv STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning**
 
    *Juntong Ni, Shiyu Wang, Ming Jin, Qi He, Wei Jin*
