@@ -121,10 +121,6 @@ Modeling: Theory and Techniques**
 
 ### [Spatiotemporal Agents](#spatiotemporal-agents)
 
-1. **2026 arXiv MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios**
-
-   *Zhiheng Song, Jingshuai Zhang, Chuan Qin, Chao Wang, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu, Hengshu Zhu*
-
 1. **2026 arXiv STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning**
 
    *Juntong Ni, Shiyu Wang, Ming Jin, Qi He, Wei Jin*
@@ -330,7 +326,8 @@ Road Network-constrained Trajectory Generation**
 
    *Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, Tongya Zheng, Mingli Song*
 
-1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on Variational Point Processes**
+1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on
+Variational Point Processes**
 
    *Qingyue Long, Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li*
 
@@ -593,6 +590,14 @@ under Weighted Edit Distance Constraints**
 
 #### [Prediction](#contents)
 
+1. **2026 TMC UniFlow: A Foundation Model for Unified Urban  Spatio-Temporal Flow Prediction**
+
+   *Yuan Yuan, Jingtao Ding, Chonghua Han, Zhi Sheng, Depeng Jin, Yong Li*
+
+1. **2025 TKDE A Universal Pre-Training and Prompting Framework for General Urban Spatio-Temporal Prediction**
+
+   *Yuan Yuan, Jingtao Ding, Jie Feng, Depeng Jin, Yong Li*
+
 1. **2025 WWW STKOpt: Automated Spatio-Temporal Knowledge Optimization for Traffic Prediction**
 
    *Yayao Hong, Liyue Chen, Leye Wang, Xiuhuai Xie, Guofeng Luo, Cheng Wang, Longbiao Chen*
@@ -612,6 +617,10 @@ under Weighted Edit Distance Constraints**
 1. **2025 AAAI Efficient Traffic Prediction Through Spatio-Temporal Distillation**
 
    *Qianru Zhang, Xinyi Gao, Haixin Wang, Siu-Ming Yiu, Hongzhi Yin*
+
+1. **2024 KDD UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction**
+
+   *Yuan Yuan, Jingtao Ding, Jie Feng, Depeng Jin, Yong Li*
 
 1. **2023 AAAI Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction**
 
@@ -654,8 +663,7 @@ Traffic Flow Forecasting**
 
    *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*
 
-1. **2020 NeurIPS Adaptive Graph Convolutional Recurrent Network
-for Traffic Forecasting**
+1. **2020 NeurIPS Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**
 
    *Lei Bai,  Lina Yao, Can Li, Xianzhi Wang, Can Wang*
 
@@ -663,8 +671,7 @@ for Traffic Forecasting**
 
    *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia,  Jian Yu*
 
-1. **2019 AAAI Attention Based Spatial-Temporal Graph Convolutional Networks
-for Traffic Flow Forecasting**
+1. **2019 AAAI Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting**
 
    *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan*
 
@@ -679,6 +686,10 @@ for Traffic Flow Forecasting**
 1. **2018 ICLR Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**
 
    *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*
+
+1. **2017 AAAI Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**
+
+   *Junbo Zhang, Yu Zheng, Dekang Qi*
 
 #### [Simulation](#contents)
 
@@ -906,10 +917,6 @@ for Traffic Flow Forecasting**
 
    *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
 
-1. **2025 NeurIPS UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
-
-   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang*
-
 1.  **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
 
    *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
@@ -918,10 +925,6 @@ for Traffic Flow Forecasting**
 with ST Feature Domain Generation**
 
    *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
-
-1. **2025 TMC Semantic-Enhanced Representation Learning for Road Networks With Temporal Dynamics**
-
-   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
 1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
 
@@ -968,9 +971,13 @@ Learning—Extended Version**
 
    *Yifan Yang, Jingyuan Wang, Xie Yu, Yibang Tang*
 
-1. **2024 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
+1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
-   *Yan Lin, Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin*
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
+
+1. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
+
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
@@ -981,7 +988,6 @@ Learning—Extended Version**
    *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
 
 1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
-
    *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
 
 1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
@@ -1042,15 +1048,19 @@ Learning—Extended Version**
 
 ### [POI Recommendation](#contents)
 
+1. **2026 WWW Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction**
+
+   *Yu Wang, Junshu Dai, Yuchen Ying, Hanyang Yuan, Zunlei Feng, Tongya Zheng, Mingli Song*
+
 1. **2026 AAAI TOOL4POI: A Tool-Augmented LLM Framework for Next POI Recommendation**
 
    *Dongsheng Wang, Shen Gao, Chengrui Huang, Yuxi Huang, Ruixiang Feng, Shuo Shang*
 
-1. **2025 Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**
+1. **2025 arXiv Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**
 
    *Penglong Zhai, Jie Li, Fanyi Di, Yue Liu, Yifang Yuan, Jie Huang, Peng Wu, Sicong Wang, Mingyang Yin, Tingting Hu, Yao Xu, Xin Li*
    
-1. **2025 Geography-Aware Large Language Models for Next POI Recommendation**
+1. **2025 arXiv Geography-Aware Large Language Models for Next POI Recommendation**
 
    *Zhao Liu, Wei Liu, Huaijie Zhu, Jianxing Yu, Jian Yin*
 
