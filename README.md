@@ -1108,6 +1108,10 @@ Learning—Extended Version**
 
    *Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu, Zhixu Li*
 
+1. **2024 KDD Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations**
+
+   *Jing Long, Guanhua Ye, Tong Chen, Yang Wang, Meng Wang, Hongzhi Yin*
+
 1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
    
    *Peibo Li, Maarten de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim*
