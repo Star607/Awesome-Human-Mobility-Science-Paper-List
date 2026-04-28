@@ -881,6 +881,10 @@ Traffic Flow Forecasting**
 
 ### [Road Network \& Trajectory Representation Learning](#contents)
 
+1. **2026 KDD Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?**
+
+   *Shuo Liu, Di Yao, Yan Lin, Gao Cong, Jingping Bi*
+
 1. **2026 AAAI Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning**
 
    *Qinghong Guo, Yu Wang, Ji Cao, Tongya Zheng, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin*
@@ -921,8 +925,7 @@ Traffic Flow Forecasting**
 
    *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
 
-1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling
-with ST Feature Domain Generation**
+1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation**
 
    *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
 
@@ -934,8 +937,7 @@ with ST Feature Domain Generation**
 
    *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
 
-1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation
-Learning—Extended Version**
+1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation Learning—Extended Version**
 
    *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
 
