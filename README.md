@@ -18,6 +18,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
       - [Map Matching](#map-matching)
       - [Trajectory-User Linking](#trajectory-user-linking)
       - [Anomaly Detection](#anomaly-detection)
+      - [Travel Time Estimation](#travel-time-estimation)
     - [Crowd Flow](#crowd-flow)
       - [Prediction](#prediction-1)
       - [Simulation](#simulation-1)
@@ -26,7 +27,6 @@ I have made a list of accepted papers and useful arXiv papers related to human m
     - [Mobility Pattern](#mobility-pattern)
     - [Road Network \& Trajectory Representation Learning](#road-network--trajectory-representation-learning)
     - [POI Recommendation](#poi-recommendation)
-    - [Travel Time Estimation](#travel-time-estimation)
 
 ### [Review](#contents)
 
@@ -301,8 +301,7 @@ Modeling: Theory and Techniques**
 
    *Jingyuan Wang, Yujing Lin, Yudong Li*
 
-1. **2024 TKDE Diff-RNTraj: A Structure-aware Diffusion Model for
-Road Network-constrained Trajectory Generation**
+1. **2024 TKDE Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**
 
    *Tonglong Wei, Youfang Lin, Shengnan Guo, Yan Lin, Yiheng Huang, Chenyang Xiang, Yuqing Bai, Huaiyu Wan*
 
@@ -449,6 +448,10 @@ Variational Point Processes**
 
    *Zhongjun Ding, Ke Li, Lisi Chen, Shuo Shang*
 
+1. **2024 AAAI KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding**
+
+   *Zhen Chen, Dalin Zhang, Shanshan Feng, Kaixuan Chen, Lisi Chen, Peng Han, Shuo Shang*
+
 1. **2024 SIGSPATIAL T-JEPA: A Joint-Embedding Predictive Architecture for Trajectory Similarity Computation**
 
    *Lihuan Li, Hao Xue, Yang Song, Flora Salim*
@@ -586,13 +589,115 @@ under Weighted Edit Distance Constraints**
 1. **2018 ADMA Anomalous Trajectory Detection using Recurrent Neural Network**
    *Li Song,  Ruijia Wang, Ding Xiao, Xiaotian Han, Yanan Cai, Chuan Shi*
 
+#### [Travel Time Estimation](#contents)
+
+1. **2026 WWW Multimodal Trajectory Representation Learning for Travel TimeEstimation**
+
+   *Zhi Liu, Xuyuan Hu, Xiao Han, Zhehao Dai, Zhaolin Deng, Guojiang Shen, Xiangjie Kong*
+
+1. **2025 AAAI DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**
+
+   *Xiaowei Mao, Yan Lin, Shengnan Guo, Yubin Chen, Xingyu Xian, Haomin Wen, Qisen Xu, Youfang Lin, Huaiyu Wan*
+
+1. **2023 KDD Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi**
+
+   *Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen*
+
+1. **2023 TKDE Citywide Estimation of Travel Time Distributions  With Bayesian Deep Graph Learning**
+
+   *James J.Q. Yu*
+
+1. **2023 TKDE Multi-Task Weakly Supervised Learning for  Origin–Destination Travel Time Estimation**
+
+   *Hongjun Wang, Zhiwen Zhang, Zipei Fan, Jiyuan Chen, Lingyu Zhang, Ryosuke Shibasaki, Xuan Song*
+
+1. **2022 TITS CatETA: A Categorical Approximate Approach  for Estimating Time of Arrival**
+
+   *Yongchao Ye, Yuanshao Zhu, Christos Markos, James J. Q. Yu*
+
+1. **2022 KDD Interpreting Trajectories from Multiple Views: A Hierarchical
+Self-Attention Network for Estimating the Time of Arrival**
+
+   *Zebin Chen, Xiaolin Xiao, Yue-Jiao Gong, Jun Fang, Nan Ma, Hua Chai, Zhiguang Cao*
+
+1. **2021 CIKM ETA Prediction with Graph Neural Networks in Google Maps**
+
+   *Austin Derrow-Pinion, Jennifer She,  David Wong,  Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser,  Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković*
+
+1. **2021 KDD SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps**
+
+   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lihang Liu, Yibo Sun, Haifeng Wang*
+
+1. **2020 KDD CompactETA: A Fast Inference System for Travel Time Prediction**
+
+   *Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang*
+
+1. **2020 KDD ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**
+
+   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang*
+
+1. **2020 KDD HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**
+
+   *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
+
+1. **2020 TITS CoDriver ETA: Combine Driver Information in  Estimated Time of Arrival by Driving Style  Learning Auxiliary Task**
+
+   *Yiwen Sun, Kun Fu, Zheng Wang, Donghua Zhou, Kailun Wu, Jieping Ye, Changshui Zhang*
+1. **2020 TKDE TTPNet: A Neural Network for Travel Time  Prediction Based on Tensor Decomposition and  Graph Embedding**
+
+    *Yibin Shen, Cheqing Jin, Jiaxun Hua, Dingjiang Huang*
+
+1. **2019 WWW Learning Travel Time Distributions with Deep Generative Model**
+
+   *Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng*
+
+1. **2019 CIKM DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation**
+
+   *Tao-yang Fu, Wang-Chien Lee*
+
+1. **2018 KDD Learning to Estimate the Travel Time**
+
+   *Zheng Wang, Kun Fu, Jieping Ye*
+
+1. **2018 KDD Multi-task Representation Learning for Travel Time Estimation**
+
+   *Yaguang Li, Kun Fu, Zheng Wang, Cyrus Shahabi, Jieping Ye, Yan Liu*
+
+1. **2018 IJCAI DEEPTRAVEL: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision**
+
+   *Hanyuan Zhang, Hao Wu, Weiwei Sun, Baihua Zheng*
+
+1. **2018 AAAI When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks**
+
+   *Dong Wang, Junbo Zhang, Wei Cao, Jian Li, Yu Zheng*
+
+1. **2016 ICDM Traffic speed prediction and congestion source exploration: A deep learning method**
+
+   *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong*
+
 ### [Crowd Flow](#contents)
 
 #### [Prediction](#contents)
 
+1. **2026 ICDE Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction**
+
+   *Rui An, Yifeng Zhang, Ziran Liang, Wenqi Fan, Yuxuan Liang, Xuequn Shang, Qing Li*
+
 1. **2026 TMC UniFlow: A Foundation Model for Unified Urban  Spatio-Temporal Flow Prediction**
 
    *Yuan Yuan, Jingtao Ding, Chonghua Han, Zhi Sheng, Depeng Jin, Yong Li*
+
+1. **2025 VLDB Scalable Pre-Training of Compact Urban Spatio-Temporal Predictive Models on Large-Scale Multi-Domain Data**
+
+   *Jindong Han, Hao Wang, Hui Xiong, Hao Liu*
+
+1. **2025 TIST Open Spatio-Temporal Foundation Models for Traffic Prediction**
+
+   *Zhonghang Li, Long Xia, Lei Shi, Yong Xu, Dawei Yin, Chao Huang*
+
+1. **2025 NeurIPS Diffusion Transformers as Open-World Spatiotemporal Foundation Models**
+
+   *Yuan Yuan, Chonghua Han, Jingtao Ding, Guozhen Zhang, Depeng Jin, Yong Li*
 
 1. **2025 TKDE A Universal Pre-Training and Prompting Framework for General Urban Spatio-Temporal Prediction**
 
@@ -881,6 +986,10 @@ Traffic Flow Forecasting**
 
 ### [Road Network \& Trajectory Representation Learning](#contents)
 
+1. **2026 ICML Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning**
+
+   *Jingtian Ma, Jingyuan Wang, Leong Hou U*
+
 1. **2026 KDD Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?**
 
    *Shuo Liu, Di Yao, Yan Lin, Gao Cong, Jingping Bi*
@@ -909,6 +1018,10 @@ Traffic Flow Forecasting**
 
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
 
+1. **2025 NeurIPS UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+
+   *Yuanshao Zhu, James Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang*
+
 1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
 
    *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
@@ -928,6 +1041,10 @@ Traffic Flow Forecasting**
 1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation**
 
    *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
+
+1. **2025 TMC Semantic-Enhanced Representation Learning for Road Networks With Temporal Dynamics**
+
+   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
 1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
 
@@ -973,13 +1090,9 @@ Traffic Flow Forecasting**
 
    *Yifan Yang, Jingyuan Wang, Xie Yu, Yibang Tang*
 
-1. **2024 arXiv UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+1. **2024 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
 
-   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xuetao Wei, Yuxuan Liang*
-
-1. **2024 arXiv Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**
-
-   *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
+   *Yan Lin, Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin*
 
 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
@@ -1213,85 +1326,3 @@ Traffic Flow Forecasting**
 1. **2018 WWW DeepMove: Predicting Human Mobility with Attentional Recurrent Networks**
    
    *Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin*
-
-### [Travel Time Estimation](#contents)
-
-1. **2025 AAAI DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**
-
-   *Xiaowei Mao, Yan Lin, Shengnan Guo, Yubin Chen, Xingyu Xian, Haomin Wen, Qisen Xu, Youfang Lin, Huaiyu Wan*
-
-1. **2023 KDD Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi**
-
-   *Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen*
-
-1. **2023 TKDE Citywide Estimation of Travel Time Distributions  With Bayesian Deep Graph Learning**
-
-   *James J.Q. Yu*
-
-1. **2023 TKDE Multi-Task Weakly Supervised Learning for  Origin–Destination Travel Time Estimation**
-
-   *Hongjun Wang, Zhiwen Zhang, Zipei Fan, Jiyuan Chen, Lingyu Zhang, Ryosuke Shibasaki, Xuan Song*
-
-1. **2022 TITS CatETA: A Categorical Approximate Approach  for Estimating Time of Arrival**
-
-   *Yongchao Ye, Yuanshao Zhu, Christos Markos, James J. Q. Yu*
-
-1. **2022 KDD Interpreting Trajectories from Multiple Views: A Hierarchical
-Self-Attention Network for Estimating the Time of Arrival**
-
-   *Zebin Chen, Xiaolin Xiao, Yue-Jiao Gong, Jun Fang, Nan Ma, Hua Chai, Zhiguang Cao*
-
-1. **2021 CIKM ETA Prediction with Graph Neural Networks in Google Maps**
-
-   *Austin Derrow-Pinion, Jennifer She,  David Wong,  Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser,  Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković*
-
-1. **2021 KDD SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps**
-
-   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lihang Liu, Yibo Sun, Haifeng Wang*
-
-1. **2020 KDD CompactETA: A Fast Inference System for Travel Time Prediction**
-
-   *Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang*
-
-1. **2020 KDD ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**
-
-   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang*
-
-1. **2020 KDD HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**
-
-   *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
-
-1. **2020 TITS CoDriver ETA: Combine Driver Information in  Estimated Time of Arrival by Driving Style  Learning Auxiliary Task**
-
-   *Yiwen Sun, Kun Fu, Zheng Wang, Donghua Zhou, Kailun Wu, Jieping Ye, Changshui Zhang*
-1. **2020 TKDE TTPNet: A Neural Network for Travel Time  Prediction Based on Tensor Decomposition and  Graph Embedding**
-
-    *Yibin Shen, Cheqing Jin, Jiaxun Hua, Dingjiang Huang*
-
-1. **2019 WWW Learning Travel Time Distributions with Deep Generative Model**
-
-   *Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng*
-
-1. **2019 CIKM DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation**
-
-   *Tao-yang Fu, Wang-Chien Lee*
-
-1. **2018 KDD Learning to Estimate the Travel Time**
-
-   *Zheng Wang, Kun Fu, Jieping Ye*
-
-1. **2018 KDD Multi-task Representation Learning for Travel Time Estimation**
-
-   *Yaguang Li, Kun Fu, Zheng Wang, Cyrus Shahabi, Jieping Ye, Yan Liu*
-
-1. **2018 IJCAI DEEPTRAVEL: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision**
-
-   *Hanyuan Zhang, Hao Wu, Weiwei Sun, Baihua Zheng*
-
-1. **2018 AAAI When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks**
-
-   *Dong Wang, Junbo Zhang, Wei Cao, Jian Li, Yu Zheng*
-
-1. **2016 ICDM Traffic speed prediction and congestion source exploration: A deep learning method**
-
-   *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong*
