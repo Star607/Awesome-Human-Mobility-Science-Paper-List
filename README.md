@@ -38,16 +38,19 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Yan Lin, Zeyu Zhou, Yicheng Liu, Haochen Lv, Haomin Wen, Tianyi Li, Yushuai Li, Christian S. Jensen, Shengnan Guo, Youfang Lin, Huaiyu Wan*
 
-1. **2025 arXiv Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey**
+1. **2025 KDD Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey**
 
    *Yuxuan Liang, Haomin Wen, Yutong Xia, Ming Jin, Bin Yang, Flora Salim, Qingsong Wen, Shirui Pan, Gao Cong*
+
+1. **2025 Computing Surveys A Survey of Generative AI for Intelligent Transportation Systems**
+
+   *Huan Yan, Yong Li*
 
 1. **2025 Computing Surveys Vehicle Trajectory Data Processing, Analytics, and Applications: A Survey**
 
    *Chenxi Liu, Zhu Xiao, Wangchen Long, Tong Li, Hongbo Jiang, Keqin Li*
 
-1. **2024 Computing Surveys An Interdisciplinary Survey on Origin-destination Flows
-Modeling: Theory and Techniques**
+1. **2024 Computing Surveys An Interdisciplinary Survey on Origin-destination Flows Modeling: Theory and Techniques**
 
    *Can Rong, Jingtao Ding, Yong Li*
 
@@ -78,10 +81,6 @@ Modeling: Theory and Techniques**
 1. **2023 arXiv Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment**
 
    *Fengli Xu, Jun Zhang, Chen Gao, Jie Feng, Yong Li*
-
-1. **2023 arXiv A Survey of Generative AI for Intelligent Transportation Systems**
-
-   *Huan Yan, Yong Li*
 
 1. **2023 Computing Surveys Generative Models for Synthetic Urban Mobility Data: A Systematic Literature Review**
 
@@ -201,7 +200,7 @@ Modeling: Theory and Techniques**
 
    *Zichen Wang, Hao Miao, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang*
 
-1. **2024 arXiv REPLAY: Modeling Time-Varying Temporal Regularities of Human Mobility for Location Prediction over Sparse Trajectories**
+1. **2025 TMC REPLAY: Modeling Time-Varying Temporal Regularities of Human Mobility for Location Prediction over Sparse Trajectories**
 
    *Bangchao Deng, Bingqing Qu, Pengyang Wang, Dingqi Yang*
 
