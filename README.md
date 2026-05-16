@@ -86,7 +86,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Alexandra Kapp, Julia Hansmeyer, Helena Mihaljević*
 
-1. **2022 Controllable Data Generation by Deep Learning: A Review**
+1. **2022 arXiv Controllable Data Generation by Deep Learning: A Review**
 
    *Shiyu Wang, Yuanqi Du, Xiaojie Guo, Bo Pan, Zhaohui Qin, Liang Zhao*
 
@@ -324,8 +324,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, Tongya Zheng, Mingli Song*
 
-1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on
-Variational Point Processes**
+1. **2023 KDD Practical Synthetic Human Trajectories Generation Based on Variational Point Processes**
 
    *Qingyue Long, Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li*
 
@@ -947,9 +946,9 @@ Traffic Flow Forecasting**
 
    *XiaoYong Yan, WenXu Wang, ZiYou Gao, YingCheng Lai*
 
-1. **2016 PANS Scaling identity connects human mobility and social interactions**
+1. **2016 PNAS Scaling identity connects human mobility and social interactions**
 
-   *Pierre Deville, Chaoming Song, Nathan Eagle, Dashun Wang* 
+   *Pierre Deville, Chaoming Song, Nathan Eagle, Vincent D. Blondel, Albert-László Barabási, Dashun Wang*
 
 1. **2012 Scientific Reports Activity driven modeling of time varying networks**
 
@@ -1310,7 +1309,7 @@ Traffic Flow Forecasting**
    
    *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux*
 
-1. **2020 IEEE STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**
+1. **2020 ICDM STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**
    
    *Haoyu Han, Mengdi Zhang, Min Hou, Fuzheng Zhang, Zhongyuan Wang, Enhong Chen, Hongwei Wang, Jianhui Ma, Qi Liu*
 
