@@ -1032,8 +1032,8 @@ Traffic Flow Forecasting**
 
    *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
 
-1.  **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
-
+1. **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
+ 
    *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
 
 1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation**
