@@ -677,6 +677,10 @@ Self-Attention Network for Estimating the Time of Arrival**
 
 #### [Prediction](#contents)
 
+1. **2026 KDD MoST: A Foundation Model for Multi-modality Spatio-temporal  Traffic Prediction**
+
+   *Ronghui Xu, Jihao Chen, Jingdong Tian, Chenjuan Guo, Bin Yang*
+
 1. **2026 ICDE Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction**
 
    *Rui An, Yifeng Zhang, Ziran Liang, Wenqi Fan, Yuxuan Liang, Xuequn Shang, Qing Li*
@@ -737,8 +741,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Shengnan Guo, Youfang Lin, Letian Gong, Chenyu Wang, Zeyu Zhou, Zekai Shen, Yiheng Huang, Huaiyu Wan*
 
-1. **2022 ICML  DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for
-Traffic Flow Forecasting**
+1. **2022 ICML  DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**
 
    *Shiyong Lan, Yitong Ma, Weikang Huang, Wenwu Wang, Hongyu Yang, Piaoyang Li*
 
