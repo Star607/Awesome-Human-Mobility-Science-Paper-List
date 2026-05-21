@@ -1165,6 +1165,30 @@ Traffic Flow Forecasting**
 
    *Yu Wang, Junshu Dai, Yuchen Ying, Hanyang Yuan, Zunlei Feng, Tongya Zheng, Mingli Song*
 
+1. **2026 WWW TravelReasoner: leveraging large reasoning models to address mobility data gap**
+
+   *Peijie Liu, Fengli Xu, Yong Li*
+
+1. **2026 ICDE Efficient Model-Agnostic Continual Learning for Next POI Recommendation**
+
+   *Chenhao Wang, Shanshan Feng, Lisi Chen, Fan Li, Shuo Shang*
+
+1. **2026 KDD Beyond Routines: Adaptive Mobility Prediction via Sequential-Relational Fusion**
+
+   *Tianao Sun, Ruizhe Liu, Wenzhen Jia, Kai Zhao, Weiming Huang, Meng Chen*
+
+1. **2026 KDD Think2Go: Generative Next POI Recommendation with LLM Reasoning**
+
+   *Zhuang Zhuang, Shanshan Feng, Hangwei Qian, Mingqi Yang, Heng Qi, Yanming Shen, Baocai Yin*
+
+1. **2026 AAAI Multifaceted Scenario-Aware Hypergraph Learning for Next POI Recommendation**
+
+   *Yuxi Lin, Yongkang Li, Jie Xing, Zipei Fan*
+
+1. **2026 AAAI Task-Aware Meta-Learning on Heterogeneous Knowledge Graph for POI Recommendation**
+
+   *Jingyuan Wang, Zhichun Wang, Tong Lu, Yiming Guan*
+
 1. **2026 AAAI TOOL4POI: A Tool-Augmented LLM Framework for Next POI Recommendation**
 
    *Dongsheng Wang, Shen Gao, Chengrui Huang, Yuxi Huang, Ruixiang Feng, Shuo Shang*
