@@ -1,34 +1,41 @@
 # Awesome Human Mobility Science Paper List
 
-I have made a list of accepted papers and useful arXiv papers related to human mobility science. Welcome everybody to continue to complement! Additionally, if you are interested in graph learning, please refer to [Graph-Learning-Reading-List](https://github.com/doujiang-zheng/Graph-Learning-Reading-List) and [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List) created by my co-workers.  
+I have made a list of accepted papers and useful arXiv papers related to human mobility science. Welcome everybody to continue to complement! Additionally, if you are interested in graph learning, please refer to [Graph-Learning-Reading-List](https://github.com/doujiang-zheng/Graph-Learning-Reading-List) and [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List) created by my co-workers.
 
-## [Contents](#contents)
+## Contents
 
-- [Awesome Human Mobility Science Paper List](#awesome-human-mobility-science-paper-list)
-  - [Contents](#contents)
-    - [Review](#review)
-    - [Spatiotemporal Agents](#spatiotemporal-agents)
-    - [Individual Trajectory](#individual-trajectory)
-      - [Prediction](#prediction)
-      - [Recovery](#recovery)
-      - [Simulation](#simulation)
-      - [Privacy Preserving](#privacy-preserving)
-      - [Transfer](#transfer)
-      - [Metrics](#metrics)
-      - [Map Matching](#map-matching)
-      - [Trajectory-User Linking](#trajectory-user-linking)
-      - [Anomaly Detection](#anomaly-detection)
-      - [Travel Time Estimation](#travel-time-estimation)
-    - [Crowd Flow](#crowd-flow)
-      - [Prediction](#prediction-1)
-      - [Simulation](#simulation-1)
-      - [Representation](#representation)
-    - [OD Flow](#od-flow)
-    - [Mobility Pattern](#mobility-pattern)
-    - [Road Network \& Trajectory Representation Learning](#road-network--trajectory-representation-learning)
-    - [POI Recommendation](#poi-recommendation)
+- [Survey & Review](#survey--review)
+- [Foundation Models, LLMs & Agents](#foundation-models-llms--agents)
+- [Individual Mobility & Trajectories](#individual-mobility--trajectories)
+  - [Mobility Prediction & POI Recommendation](#mobility-prediction--poi-recommendation)
+  - [Trajectory Generation & Simulation](#trajectory-generation--simulation)
+  - [Trajectory Recovery & Reconstruction](#trajectory-recovery--reconstruction)
+  - [Trajectory Representation Learning](#trajectory-representation-learning)
+  - [Trajectory Similarity, Search & Clustering](#trajectory-similarity-search--clustering)
+  - [Map Matching](#map-matching)
+  - [Trajectory-User Linking & Identification](#trajectory-user-linking--identification)
+  - [Trajectory Anomaly Detection](#trajectory-anomaly-detection)
+  - [Privacy & Security](#privacy--security)
+  - [Transfer & Generalization](#transfer--generalization)
+- [Aggregate Mobility & Urban Flows](#aggregate-mobility--urban-flows)
+  - [Traffic / Crowd Flow Prediction](#traffic--crowd-flow-prediction)
+  - [Traffic / Crowd Flow Generation](#traffic--crowd-flow-generation)
+  - [Traffic / Crowd Flow Representation Learning](#traffic--crowd-flow-representation-learning)
+  - [OD Flow Modeling & Generation](#od-flow-modeling--generation)
+  - [Travel Time / ETA Estimation](#travel-time--eta-estimation)
+- [Road Networks, Maps & Spatial Representations](#road-networks-maps--spatial-representations)
+  - [Road Network Representation Learning](#road-network-representation-learning)
+  - [Path / Route Representation Learning](#path--route-representation-learning)
+  - [Joint Road-Trajectory Representation](#joint-road-trajectory-representation)
+- [Mobility Patterns, Urban Science & Applications](#mobility-patterns-urban-science--applications)
+  - [Mobility Laws & Scaling Patterns](#mobility-laws--scaling-patterns)
+  - [Urban Structure & Functional Regions](#urban-structure--functional-regions)
+  - [Epidemics, Public Health & Resilience](#epidemics-public-health--resilience)
+  - [Equity, Segregation & Social Outcomes](#equity-segregation--social-outcomes)
+  - [Sustainability, Energy & Environment](#sustainability-energy--environment)
+  - [Urban Planning & Policy](#urban-planning--policy)
 
-### [Review](#contents)
+### Survey & Review [[Back to Contents](#contents)]
 
 1. **2026 TKDE Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review**
 
@@ -65,7 +72,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 1. **2024 arXiv Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond**
 
    *Wei Chen, Yuxuan Liang, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li, Yanwei Yu, Qingsong Wen, Chao Chen, Kai Zheng, Yunjun Gao, Xiaofang Zhou, Yu Zheng*
-   
+
 1. **2024 Nature HSSC Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**
 
    *Chen Gao, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, Yong Li*
@@ -118,7 +125,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Yu Zheng*
 
-### [Spatiotemporal Agents](#spatiotemporal-agents)
+### Foundation Models, LLMs & Agents [[Back to Contents](#contents)]
 
 1. **2026 arXiv STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning**
 
@@ -188,9 +195,9 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Yifan Zhang, Cheng Wei, Shangyou Wu, Zhengting He, Wenhao Yu*
 
-### [Individual Trajectory](#contents)
+### Individual Mobility & Trajectories [[Back to Contents](#contents)]
 
-#### [Prediction](#contents)
+#### Mobility Prediction & POI Recommendation
 
 1. **2025 SIGSPATIAL UniMove: A Unified Model for Multi-city Human Mobility Prediction**
 
@@ -230,7 +237,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
 1. **2022 Information Sciences Contextual spatio-temporal graph representation learning for reinforced human mobility mining**
 
-   *Qiang Gao, Fan Zhou, Ting Zhong, Goce Trajcevski, Xin Yang, Tianrui Li* 
+   *Qiang Gao, Fan Zhou, Ting Zhong, Goce Trajcevski, Xin Yang, Tianrui Li*
 
 1. **2021 IJCAI Modeling Trajectories with Neural Ordinary Differential Equations**
 
@@ -256,37 +263,195 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Sébastien Gambs, Marc-Olivier Killijian, Miguel Núñez del Prado Cortez*
 
-#### [Recovery](#contents)
+1. **2026 WWW Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction**
 
-1. **2025 NeurIPS PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models**
+   *Yu Wang, Junshu Dai, Yuchen Ying, Hanyang Yuan, Zunlei Feng, Tongya Zheng, Mingli Song*
 
-   *Tonglong Wei, Yan Lin, Youfang Lin, Shengnan Guo, Jilin Hu, Haitao Yuan, Gao Cong, Huaiyu Wan*
+1. **2026 WWW TravelReasoner: leveraging large reasoning models to address mobility data gap**
 
-1. **2023 VLDB TERI: An Effective Framework for Trajectory Recovery with Irregular Time Intervals**
+   *Peijie Liu, Fengli Xu, Yong Li*
 
-   *Yile Chen, Gao Cong, Anda Cuauhtemoc*
+1. **2026 ICDE Efficient Model-Agnostic Continual Learning for Next POI Recommendation**
 
-1. **2023 ICDE RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer**
+   *Chenhao Wang, Shanshan Feng, Lisi Chen, Fan Li, Shuo Shang*
 
-   *Yuqi Chen, Hanyuan Zhang, Weiwei Sun, Baihua Zheng*
+1. **2026 KDD Beyond Routines: Adaptive Mobility Prediction via Sequential-Relational Fusion**
 
-1. **2023 TKDD History-enhanced and Uncertainty-aware Trajectory Recovery via Attentive Neural Network**
+   *Tianao Sun, Ruizhe Liu, Wenzhen Jia, Kai Zhao, Weiming Huang, Meng Chen*
 
-   *Tong Xia, Yong Li, Yunhan Qi, Jie Feng, Fengli Xu, Funing Sun, Diansheng Guo, Depeng Jin*
+1. **2026 KDD Think2Go: Generative Next POI Recommendation with LLM Reasoning**
 
-1. **2021 CIKM PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network**
+   *Zhuang Zhuang, Shanshan Feng, Hangwei Qian, Mingqi Yang, Heng Qi, Yanming Shen, Baocai Yin*
 
-   *Hao Sun, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng* 
+1. **2026 AAAI Multifaceted Scenario-Aware Hypergraph Learning for Next POI Recommendation**
 
-1. **2021 AAAI AttnMove: History Enhanced Trajectory Recovery via Attentional Network**
+   *Yuxi Lin, Yongkang Li, Jie Xing, Zipei Fan*
 
-   *Tong Xia, Yunhan Qi, Jie Feng, Fengli Xu, Funing Sun, Diansheng Guo, Yong Li*
+1. **2026 AAAI Task-Aware Meta-Learning on Heterogeneous Knowledge Graph for POI Recommendation**
 
-1. **2019 EPJ Data Science Complete trajectory reconstruction from sparse mobile phone data**
+   *Jingyuan Wang, Zhichun Wang, Tong Lu, Yiming Guan*
 
-   *Guangshuo Chen, Aline Carneiro Viana, Marco Fiore, Carlos Sarraute* 
+1. **2026 AAAI TOOL4POI: A Tool-Augmented LLM Framework for Next POI Recommendation**
 
-#### [Simulation](#contents)
+   *Dongsheng Wang, Shen Gao, Chengrui Huang, Yuxi Huang, Ruixiang Feng, Shuo Shang*
+
+1. **2025 arXiv Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**
+
+   *Penglong Zhai, Jie Li, Fanyi Di, Yue Liu, Yifang Yuan, Jie Huang, Peng Wu, Sicong Wang, Mingyang Yin, Tingting Hu, Yao Xu, Xin Li*
+
+1. **2025 arXiv Geography-Aware Large Language Models for Next POI Recommendation**
+
+   *Zhao Liu, Wei Liu, Huaijie Zhu, Jianxing Yu, Jian Yin*
+
+1. **2025 CIKM TCFMamba: Trajectory Collaborative Filtering Mamba for Debiased Point-of-Interest Recommendation**
+
+   *Jin Qian, Shiyu Song, Xin Zhang, Dongjing Wang, He Weng, Haiping Zhang, Dongjin Yu*
+
+1. **2025 CIKM MGSTDN:Multi-Granularity Spatial-Temporal Diffusion Network for Next POI Recommendation**
+
+   *Zhuang Zhuang, Haitao Yuan, Shanshan Feng, Heng Qi, Yanming Shen, Baocai Yin*
+
+1. **2025 ACM MM IM-POI: Bridging ID and Multi-modal Gaps in Next POI Recommendation**
+
+   *Siyuan Huang, Jiahui Jin, Xin Lin, Xigang Sun, Yukun Ban*
+
+1. **2025 TKDE Joint Modeling of Multimodal Information Based on Dynamic and Static Knowledge Graphs for Next POI Recommendation**
+
+   *Xiaoxiao Sun, Zhengbo Gao, Dongjin Yu, Boyi Huang*
+
+1. **2025 IJCAI Disentangled and Personalized Representation Learning for Next Point-of-Interest Recommendation**
+
+   *Xuan Rao, Shuo Shang, Lisi Chen, Renhe Jiang, Peng Han*
+
+1. **2025 KDD Generative Next POI Recommendation with Semantic ID**
+
+   *Dongsheng Wang, Yuxi Huang, Shen Gao, Yifan Wang, Chengrui Huang, Shuo Shang*
+
+1. **2025 KDD Enhancing Large Language Models for Mobility Analytics with Semantic Location Tokenization**
+
+   *Yile Chen, Yicheng Tao, Yue Jiang, Shuai Liu, Han Yu, Gao Cong*
+
+1. **2025 KDD A Universal Model for Human Mobility Prediction**
+
+   *Qingyue Long, Yuan Yuan, Yong Li*
+
+1. **2025 AAAI POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning**
+
+   *Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao*
+
+1. **2025 AAAI Integrating Personalized Spatio-Temporal Clustering for Next POI Recommendation**
+
+   *Chao Song, Zheng Ren, Li Lu*
+
+1. **2025 AAAI Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning**
+
+   *Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu, Zhixu Li*
+
+1. **2024 KDD Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations**
+
+   *Jing Long, Guanhua Ye, Tong Chen, Yang Wang, Meng Wang, Hongzhi Yin*
+
+1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
+
+   *Peibo Li, Maarten de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim*
+
+1. **2024 TKDE Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning**
+
+   *Xuan Rao, Renhe Jiang, Shuo Shang, Lisi Chen, Peng Han, Bin Yao, Panos Kalnis*
+
+1. **2024 NeurIPS Taming the Long Tail in Human Mobility Prediction**
+
+   *Xiaohang Xu,  Renhe Jiang, Chuang Yang, Zipei Fan,  Kaoru Sezaki*
+
+1. **2024 WWW MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations**
+
+   *Yang Xu, Gao Cong, Lei Zhu, Lizhen Cui*
+
+1. **2024 NeurIPS Mobility-LLM: Learning Visiting Intentions and Travel Preferences from Human Mobility Data with Large Language Models**
+
+   *Letian Gong, Yan Lin, Xinyue Zhang, Yiwen Lu, Xuedi Han, Yichen Liu, Shengnan Guo, Youfang Lin, Huaiyu Wan*
+
+1. **2024 Knowledge-Based Systems ImNext: Irregular Interval Attention and Multi-task Learning for Next POI Recommendation**
+
+   *Xi He, Weikang He, Yilin Liu, Xingyu Lu, Yunpeng Xiao, Yanbing Liu*
+
+1. **2024 KDD ROTAN: A Rotation-based Temporal Attention Network for Time-Specific Next POI Recommendation**
+
+   *Shanshan Feng, Feiyu Meng, Lisi Chen, L Cui, Shuo Shang, Yew Soon Ong*
+
+1. **2024 KDD Going Where, by Whom, and at What Time: Next Location Prediction Considering User Preference and Temporal Regularity**
+
+   *Tianao Sun, Ke Fu, Weiming Huang, Kai Zhao, Yongshun Gong, Meng Chen*
+
+1. **2024 IJCAI Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation**
+
+   *Lianyong Qi, Yuwen Liu, Weiming Liu, Shichao Pei, Xiaolong Xu, Xuyun Zhang, Yingjie Wang, Wanchun Dou*
+
+1. **2024 ICDE Towards Effective Next POI Prediction: Spatial and Semantic Augmentation with Remote Sensing Data**
+
+   *Nan Jiang,  Haitao Yuan, Jianing Si, Minxiao Chen, Shangguang Wang*
+
+1. **2023 TOIS A Diffusion model for POI recommendation**
+
+   *Yifang Qin, Hongjun Wu, Wei Ju, Xiao Luo, Ming Zhang*
+
+1. **2023 SIGIR Spatio-Temporal Hypergraph Learning for Next POI Recommendation**
+
+   *Xiaodong Yan, Tengwei Song, Yifeng Jiao, Jianshan He, Jiaotuan Wang, Ruopeng Li, Wei Chu*
+
+1. **2023 SIGSPATIAL Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation**
+
+   *Xiaohang Xu, Toyotaro Suzumura, Jiawei Yong, Masatoshi Hanai, Chuang Yang, Hiroki Kanezashi, Renhe Jiang, Shintaro Fukushima*
+
+1. **2023 SIGIR Adaptive Graph Representation Learning for Next POI Recommendation**
+
+   *Zhaobo Wang, Yanmin Zhu, Chunyang Wang, Wenze Ma, Bo Li, Jiadi Yu*
+
+1. **2023 AAAI Next POI Recommendation with Dynamic Graph and Explicit Dependency**
+
+   *Feiyu Yin, Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han*
+
+1. **2022 SIGIR Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation**
+
+   *Nicholas Lim, Bryan Hooi, See-Kiong Ng, Yong Liang Goh, Renrong Weng, Rui Tan*
+
+1. **2022 SIGIR GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**
+
+   *Song Yang, Jiamou Liu, Kaiqi Zhao*
+
+1. **2022 KDD Graph-Flashback Network for Next Location Recommendation**
+
+   *Xuan Rao, Lisi Chen, Yong Liu, Shuo Shang, Bin Yao, and Peng Han*
+
+1. **2022 Knowledge-Based Systems Building and exploiting spatial–temporal knowledge graph for next POI recommendation**
+
+   *Wei Chen, Huaiyu Wan, Shengnan Guo, Haoyu Huang, Shaojie Zheng, Jiamu Li, Shuohao Lin, Youfang Lin*
+
+1. **2021 WWW STAN: Spatio-Temporal Attention Network for Next Location Recommendation**
+
+   *Yingtao Luo, Qiang Liu, Zhaocheng Liu*
+
+1. **2020 IJCAI Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**
+
+   *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux*
+
+1. **2020 ICDM STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**
+
+   *Haoyu Han, Mengdi Zhang, Min Hou, Fuzheng Zhang, Zhongyuan Wang, Enhong Chen, Hongwei Wang, Jianhui Ma, Qi Liu*
+
+1. **2020 AAAI Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation**
+
+   *Ke Sun, Tieyun Qian, Tong Chen, Yile LiangQuoc Viet Hung Nguyen, Hongzhi Yin*
+
+1. **2019 AAAI Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation**
+
+   *Pengpeng Zhao, Haifeng Zhu, Yanchi Liu, Jiajie Xu, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou*
+
+1. **2018 WWW DeepMove: Predicting Human Mobility with Attentional Recurrent Networks**
+
+   *Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin*
+
+#### Trajectory Generation & Simulation
 
 1. **2025 WWW Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation**
 
@@ -404,43 +569,99 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Shan Jiang, Yingxiang Yanga, Siddharth Gupta, Daniele Venezianoa, Shounak Athavaleb, Marta C. González*
 
-#### [Privacy Preserving](#contents)
+#### Trajectory Recovery & Reconstruction
 
-1. **2024 SIGSPATIAL Adversarial Reconstruction of Trajectories: Privacy Risks and Attack Models in Trajectory Embedding**
+1. **2025 NeurIPS PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models**
 
-   *Haochen Han, Shuaiyu Yang, Jiaxin Ding, Luoyi Fu, Xinbing Wang, Chenghu Zhou*
+   *Tonglong Wei, Yan Lin, Youfang Lin, Shengnan Guo, Jilin Hu, Haitao Yuan, Gao Cong, Huaiyu Wan*
 
-1. **2023 TKDE Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**
+1. **2023 VLDB TERI: An Effective Framework for Trajectory Recovery with Irregular Time Intervals**
 
-   *Fengmei Jin, Wen Hua, Boyu Ruan, Xiaofang Zhou*
+   *Yile Chen, Gao Cong, Anda Cuauhtemoc*
 
-1. **2023 TKDE  PUTS: Privacy-Preserving and Utility-Enhancing Framework for Trajectory Synthesization**
+1. **2023 ICDE RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer**
 
-   *Xinyue Sun, Qingqing Ye, Haibo Hu, Jiawei Duan, Qiao Xue, Tianyu Wo, Jie Xu*
+   *Yuqi Chen, Hanyuan Zhang, Weiwei Sun, Baihua Zheng*
 
-1. **2023 AAAI PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**
+1. **2023 TKDD History-enhanced and Uncertainty-aware Trajectory Recovery via Attentive Neural Network**
 
-   *Huandong Wang, Changzheng Gao, Yuchen Wu, Depeng Jin, Lina Yao, Yong Li*
+   *Tong Xia, Yong Li, Yunhan Qi, Jie Feng, Fengli Xu, Funing Sun, Diansheng Guo, Depeng Jin*
 
-#### [Transfer](#contents)
+1. **2021 CIKM PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network**
 
-1. **2024 WWW COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**
+   *Hao Sun, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng*
 
-   *Yu Wang, Tongya Zheng, Yuxuan Liang, Shunyu Liu, Mingli Song*
+1. **2021 AAAI AttnMove: History Enhanced Trajectory Recovery via Attentional Network**
 
-1. **2024 CIKM CrossPred: A Cross-City Mobility Prediction Framework for Long-Distance Travelers via POI Feature Matching**
+   *Tong Xia, Yunhan Qi, Jie Feng, Fengli Xu, Funing Sun, Diansheng Guo, Yong Li*
 
-   *Shuai Xu, Donghai Guan*
+1. **2019 EPJ Data Science Complete trajectory reconstruction from sparse mobile phone data**
 
-1. **2022 TIST Doing More with Less: Overcoming Data Scarcity for POI Recommendation via Cross-Region Transfer**
+   *Guangshuo Chen, Aline Carneiro Viana, Marco Fiore, Carlos Sarraute*
 
-   *Vinayak Gupta, Srikanta Bedathur*
+#### Trajectory Representation Learning
 
-1. **2020 WWW What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities**
+1. **2026 KDD Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?**
 
-   *Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*
+   *Shuo Liu, Di Yao, Yan Lin, Gao Cong, Jingping Bi*
 
-#### [Metrics](#contents)
+1. **2026 AAAI Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**
+
+   *Yanwei Yu, Hong Xia, Shaoxuan Gu, Xingyu Zhao, Dongliang Chen, Yuan Cao*
+
+1. **2025 ICDE Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration**
+
+   *Hong Xia, Xiao Zhang, Yuan Cao, Lei Cao, Yanwei Yu, Junyu Dong*
+
+1. **2025 NeurIPS UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
+
+   *Yuanshao Zhu, James Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang*
+
+1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
+
+   *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
+
+1. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
+
+   *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
+
+1. **2025 NeurIPS TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**
+
+   *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
+
+1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation**
+
+   *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
+
+1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
+
+   *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
+
+1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
+
+   *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
+
+1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
+
+   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
+
+1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
+
+   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
+
+1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
+
+   *Silin Zhou, Shuo Shang, Lisi Chen, Christian S. Jensen, Panos Kalnis*
+
+1. **2024 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
+
+   *Yan Lin, Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin*
+
+1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
+
+   *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
+
+#### Trajectory Similarity, Search & Clustering
 
 1. **2025 WWW Parallel Online Similarity Join over Trajectory Streams**
 
@@ -519,7 +740,7 @@ under Weighted Edit Distance Constraints**
 
    *Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis*
 
-#### [Map Matching](#contents)
+#### Map Matching
 
 1. **2026 AAAI DiffMM: Efficient Method for Accurate Noisy and Sparse Trajectory Map Matching via One Step Diffusion**
 
@@ -541,7 +762,7 @@ under Weighted Edit Distance Constraints**
 
    *Can Yang, Gyozo Gidofalvi*
 
-#### [Trajectory-User Linking](#contents)
+#### Trajectory-User Linking & Identification
 
 1. **2025 AAAI Scalable Trajectory-User Linking with Dual-Stream Representation Networks**
 
@@ -567,7 +788,7 @@ under Weighted Edit Distance Constraints**
 
    *Fan Zhou, Qiang Gao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Fengli Zhang*
 
-#### [Anomaly Detection](#contents)
+#### Trajectory Anomaly Detection
 
 1. **2024 SIGSPATIAL Transferable Unsupervised Outlier Detection Framework for Human Semantic Trajectories**
 
@@ -587,95 +808,45 @@ under Weighted Edit Distance Constraints**
 1. **2018 ADMA Anomalous Trajectory Detection using Recurrent Neural Network**
    *Li Song,  Ruijia Wang, Ding Xiao, Xiaotian Han, Yanan Cai, Chuan Shi*
 
-#### [Travel Time Estimation](#contents)
+#### Privacy & Security
 
-1. **2026 WWW Multimodal Trajectory Representation Learning for Travel TimeEstimation**
+1. **2024 SIGSPATIAL Adversarial Reconstruction of Trajectories: Privacy Risks and Attack Models in Trajectory Embedding**
 
-   *Zhi Liu, Xuyuan Hu, Xiao Han, Zhehao Dai, Zhaolin Deng, Guojiang Shen, Xiangjie Kong*
+   *Haochen Han, Shuaiyu Yang, Jiaxin Ding, Luoyi Fu, Xinbing Wang, Chenghu Zhou*
 
-1. **2025 AAAI DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**
+1. **2023 TKDE Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**
 
-   *Xiaowei Mao, Yan Lin, Shengnan Guo, Yubin Chen, Xingyu Xian, Haomin Wen, Qisen Xu, Youfang Lin, Huaiyu Wan*
+   *Fengmei Jin, Wen Hua, Boyu Ruan, Xiaofang Zhou*
 
-1. **2023 KDD Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi**
+1. **2023 TKDE  PUTS: Privacy-Preserving and Utility-Enhancing Framework for Trajectory Synthesization**
 
-   *Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen*
+   *Xinyue Sun, Qingqing Ye, Haibo Hu, Jiawei Duan, Qiao Xue, Tianyu Wo, Jie Xu*
 
-1. **2023 TKDE Citywide Estimation of Travel Time Distributions  With Bayesian Deep Graph Learning**
+1. **2023 AAAI PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**
 
-   *James J.Q. Yu*
+   *Huandong Wang, Changzheng Gao, Yuchen Wu, Depeng Jin, Lina Yao, Yong Li*
 
-1. **2023 TKDE Multi-Task Weakly Supervised Learning for  Origin–Destination Travel Time Estimation**
+#### Transfer & Generalization
 
-   *Hongjun Wang, Zhiwen Zhang, Zipei Fan, Jiyuan Chen, Lingyu Zhang, Ryosuke Shibasaki, Xuan Song*
+1. **2024 WWW COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**
 
-1. **2022 TITS CatETA: A Categorical Approximate Approach  for Estimating Time of Arrival**
+   *Yu Wang, Tongya Zheng, Yuxuan Liang, Shunyu Liu, Mingli Song*
 
-   *Yongchao Ye, Yuanshao Zhu, Christos Markos, James J. Q. Yu*
+1. **2024 CIKM CrossPred: A Cross-City Mobility Prediction Framework for Long-Distance Travelers via POI Feature Matching**
 
-1. **2022 KDD Interpreting Trajectories from Multiple Views: A Hierarchical
-Self-Attention Network for Estimating the Time of Arrival**
+   *Shuai Xu, Donghai Guan*
 
-   *Zebin Chen, Xiaolin Xiao, Yue-Jiao Gong, Jun Fang, Nan Ma, Hua Chai, Zhiguang Cao*
+1. **2022 TIST Doing More with Less: Overcoming Data Scarcity for POI Recommendation via Cross-Region Transfer**
 
-1. **2021 CIKM ETA Prediction with Graph Neural Networks in Google Maps**
+   *Vinayak Gupta, Srikanta Bedathur*
 
-   *Austin Derrow-Pinion, Jennifer She,  David Wong,  Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser,  Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković*
+1. **2020 WWW What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities**
 
-1. **2021 KDD SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps**
+   *Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*
 
-   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lihang Liu, Yibo Sun, Haifeng Wang*
+### Aggregate Mobility & Urban Flows [[Back to Contents](#contents)]
 
-1. **2020 KDD CompactETA: A Fast Inference System for Travel Time Prediction**
-
-   *Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang*
-
-1. **2020 KDD ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**
-
-   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang*
-
-1. **2020 KDD HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**
-
-   *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
-
-1. **2020 TITS CoDriver ETA: Combine Driver Information in  Estimated Time of Arrival by Driving Style  Learning Auxiliary Task**
-
-   *Yiwen Sun, Kun Fu, Zheng Wang, Donghua Zhou, Kailun Wu, Jieping Ye, Changshui Zhang*
-1. **2020 TKDE TTPNet: A Neural Network for Travel Time  Prediction Based on Tensor Decomposition and  Graph Embedding**
-
-    *Yibin Shen, Cheqing Jin, Jiaxun Hua, Dingjiang Huang*
-
-1. **2019 WWW Learning Travel Time Distributions with Deep Generative Model**
-
-   *Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng*
-
-1. **2019 CIKM DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation**
-
-   *Tao-yang Fu, Wang-Chien Lee*
-
-1. **2018 KDD Learning to Estimate the Travel Time**
-
-   *Zheng Wang, Kun Fu, Jieping Ye*
-
-1. **2018 KDD Multi-task Representation Learning for Travel Time Estimation**
-
-   *Yaguang Li, Kun Fu, Zheng Wang, Cyrus Shahabi, Jieping Ye, Yan Liu*
-
-1. **2018 IJCAI DEEPTRAVEL: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision**
-
-   *Hanyuan Zhang, Hao Wu, Weiwei Sun, Baihua Zheng*
-
-1. **2018 AAAI When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks**
-
-   *Dong Wang, Junbo Zhang, Wei Cao, Jian Li, Yu Zheng*
-
-1. **2016 ICDM Traffic speed prediction and congestion source exploration: A deep learning method**
-
-   *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong*
-
-### [Crowd Flow](#contents)
-
-#### [Prediction](#contents)
+#### Traffic / Crowd Flow Prediction
 
 1. **2026 KDD MoST: A Foundation Model for Multi-modality Spatio-temporal  Traffic Prediction**
 
@@ -764,7 +935,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 1. **2020 AAAI GMAN: A Graph Multi-Attention Network for Traffic Prediction**
 
    *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
-   
+
 1. **2020 AAAI Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**
 
    *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*
@@ -797,7 +968,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Junbo Zhang, Yu Zheng, Dekang Qi*
 
-#### [Simulation](#contents)
+#### Traffic / Crowd Flow Generation
 
 1. **2024 AAAI  Social Physics Informed Diffusion Model for Crowd Simulation**
 
@@ -807,18 +978,18 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Zhilun Zhou, Jingtao Ding, Yu Liu, Depeng Jin, Yong Li*
 
-#### [Representation](#contents)
+#### Traffic / Crowd Flow Representation Learning
 
 1. **2023 AAAI Generic and Dynamic Graph Representation Learning for Crowd Flow Modeling**
 
    *Liangzhe Han, Ruixing Zhang, Leilei Sun, Bowen Du, Yanjie Fu, Tongyu Zhu*
 
-### [OD Flow](#contents)
+#### OD Flow Modeling & Generation
 
 1. **2025 ICLR A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation**
 
    *Can Rong, Jingtao Ding, Yan Liu, Yong Li*
-   
+
 1. **2023 arXiv Complexity-aware Large Scale Origin-Destination Network Generation via Diffusion Model**
 
    *Can Rong, Jingtao Ding, Zhicheng Liu, Yong Li*
@@ -841,167 +1012,109 @@ Self-Attention Network for Estimating the Time of Arrival**
 
 1. **2021 Nature The universal visitation law of human mobility**
 
-   *Markus Schläpfer, Lei Dong, Kevin O'Keeffe, Paolo Santi, Michael Szell, Hadrien Salat, Samuel Anklesaria, Mohammad Vazifeh, Carlo Ratti, Geoffrey B West* 
+   *Markus Schläpfer, Lei Dong, Kevin O'Keeffe, Paolo Santi, Michael Szell, Hadrien Salat, Samuel Anklesaria, Mohammad Vazifeh, Carlo Ratti, Geoffrey B West*
 
 1. **2019 UbiComp Deep learning models for population flow generation from aggregated mobility data**
 
    *Can Rong, Jie Feng, Yong Li*
 
-### [Mobility Pattern](#contents)
+#### Travel Time / ETA Estimation
 
-1. **2024 SIGSPATIAL Urban Mobility Assessment Using LLMs**
+1. **2026 WWW Multimodal Trajectory Representation Learning for Travel TimeEstimation**
 
-   *Prabin Bhandari, Antonios Anastasopoulos, Dieter Pfoser*
+   *Zhi Liu, Xuyuan Hu, Xiao Han, Zhehao Dai, Zhaolin Deng, Guojiang Shen, Xiangjie Kong*
 
-1. **2024 SIGSPATIAL Additive Compositionality in Urban Area Embeddings Based on Human Mobility Patterns**
+1. **2025 AAAI DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation**
 
-   *Naoki Tamura, Haru Terashima, Kazuyuki Shoji, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi*
+   *Xiaowei Mao, Yan Lin, Shengnan Guo, Yubin Chen, Xingyu Xian, Haomin Wen, Qisen Xu, Youfang Lin, Huaiyu Wan*
 
-1. **2024 SIGSPATIAL The Patterns of Life Human Mobility Simulation**
+1. **2023 KDD Uncertainty-aware probabilistic travel time prediction for on-demand ride-hailing at didi**
 
-   *Hossein Amiri, Will Kohn, Shiyang Ruan, Joon-Seok Kim, Hamdi Kavak, Andrew Crooks, Dieter Pfoser, Carola Wenk, Andreas Zufle*
+   *Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen*
 
-1. **2024 SIGSPATIAL Beauty or Beast: Human Behavioral Insights and Learning Power of Federated Mobility Prediction**
+1. **2023 TKDE Citywide Estimation of Travel Time Distributions  With Bayesian Deep Graph Learning**
 
-   *João Paulo Esper, Aline Carneiro Viana, Jussara M. Almeida
+   *James J.Q. Yu*
 
-1. **2023 Scientific Reports Uncovering spatial and social gaps in rural mobility via mobile phone big data**
+1. **2023 TKDE Multi-Task Weakly Supervised Learning for  Origin–Destination Travel Time Estimation**
 
-   *Zhengying Liu, Pengjun Zhao, Qiyang Liu, Zhangyuan He, Tingting Kang*
+   *Hongjun Wang, Zhiwen Zhang, Zipei Fan, Jiyuan Chen, Lingyu Zhang, Ryosuke Shibasaki, Xuan Song*
 
-1. **2023 Scientific Reports The spatiotemporal prediction method of urban population density distribution through behaviour environment interaction agent model**
+1. **2022 TITS CatETA: A Categorical Approximate Approach  for Estimating Time of Arrival**
 
-   *Junyan Yang, Yi Shi, Yi Zheng, Zhonghu Zhang* 
+   *Yongchao Ye, Yuanshao Zhu, Christos Markos, James J. Q. Yu*
 
-1. **2023 Scientific Reports Estimating urban spatial structure based on remote sensing data**
+1. **2022 KDD Interpreting Trajectories from Multiple Views: A Hierarchical
+Self-Attention Network for Estimating the Time of Arrival**
 
-   *Masanobu Kii, Tetsuya Tamaki, Tatsuya Suzuki, Atsuko Nonomura* 
+   *Zebin Chen, Xiaolin Xiao, Yue-Jiao Gong, Jun Fang, Nan Ma, Hua Chai, Zhiguang Cao*
 
-1. **2023 Scientific Reports Epidemic thresholds and human mobility**
+1. **2021 CIKM ETA Prediction with Graph Neural Networks in Google Maps**
 
-   *Marta Pardo-Araujo, David García-García, David Alonso, Frederic Bartumeus* 
+   *Austin Derrow-Pinion, Jennifer She,  David Wong,  Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser,  Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković*
 
-1. **2023 Patterns A multi-scale unified model of human mobility in urban agglomerations**
+1. **2021 KDD SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps**
 
-   *Yong Chen, Haoge Xu, Xiqun (Michael) Chen, Ziyou Gao*
+   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lihang Liu, Yibo Sun, Haifeng Wang*
 
-1. **2023 Nature_Sustain. Carbon emissions and sustainability of launching 5G mobile networks in China**
+1. **2020 KDD CompactETA: A Fast Inference System for Travel Time Prediction**
 
-   *Tong Li, Li Yu, Yibo Ma, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin, Yong Li, Tao Jiang*
+   *Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang*
 
-1. **2023 npj Urban Sustainability A general urban spreading pattern of COVID-19 and its underlying mechanism**
+1. **2020 KDD ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**
 
-   *Hongshen Zhang, Yongtao Zhang, Shibo He, Yi Fang, Yanggang Cheng, Zhiguo Shi, Cunqi Shao, Chao Li, Songmin Ying, Zhenyu Gong, Yu Liu, Lin Dong, Youxian Sun, Jianmin Jia, H. Eugene Stanley, Jiming Chen*
+   *Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang*
 
-1. **2023 Nature Human Behaviour COVID-19 is linked to changes in the time–space dimension of human mobility**
+1. **2020 KDD HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**
 
-   *Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, Riccardo Di Clemente*
+   *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
 
-1. **2023 Nature Computational Science Spatial planning of urban communities via deep reinforcement learning**
+1. **2020 TITS CoDriver ETA: Combine Driver Information in  Estimated Time of Arrival by Driving Style  Learning Auxiliary Task**
 
-   *Yu Zheng, Yuming Lin, Liang Zhao, Tinghai Wu, Depeng Jin, Yong Li* 
+   *Yiwen Sun, Kun Fu, Zheng Wang, Donghua Zhou, Kailun Wu, Jieping Ye, Changshui Zhang*
+1. **2020 TKDE TTPNet: A Neural Network for Travel Time  Prediction Based on Tensor Decomposition and  Graph Embedding**
 
-1. **2023 Nature Computational Science Future directions in human mobility science**
+    *Yibin Shen, Cheqing Jin, Jiaxun Hua, Dingjiang Huang*
 
-   *Luca Pappalardo, Ed Manley, Vedran Sekara, Laura Alessandretti* 
+1. **2019 WWW Learning Travel Time Distributions with Deep Generative Model**
 
-1. **2023 Communications Medicine Forecasting hospital-level COVID-19 admissions using real-time mobility data**
+   *Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng*
 
-   *Brennan Klein, Ana C. Zenteno, Daisha Joseph, Mohammadmehdi Zahedi, Michael Hu, Martin S. Copenhaver, Moritz U. G. Kraemer, Matteo Chinazzi, Michael Klompas, Alessandro Vespignani, Samuel V. Scarpino, Hojjat Salmasian* 
+1. **2019 CIKM DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation**
 
-1. **2023 Nature Communications Behavioral changes during the COVID-19 pandemic decreased income diversity of urban encounters**
+   *Tao-yang Fu, Wang-Chien Lee*
 
-   *Takahiro Yabe, Bernardo García Bulle Bueno, Xiaowen Dong, Alex Pentland, Esteban Moro*
+1. **2018 KDD Learning to Estimate the Travel Time**
 
-1. **2023 AAAI Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**
+   *Zheng Wang, Kun Fu, Jieping Ye*
 
-   *Lin Chen, Fengli Xu, Qianyue Hao, Pan Hui, Yong Li*
+1. **2018 KDD Multi-task Representation Learning for Travel Time Estimation**
 
-1. **2022 Nature Human Behaviour Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity**
+   *Yaguang Li, Kun Fu, Zheng Wang, Cyrus Shahabi, Jieping Ye, Yan Liu*
 
-   *Lin Chen, Fengli Xu, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li*
+1. **2018 IJCAI DEEPTRAVEL: a Neural Network Based Travel Time Estimation Model with Auxiliary Supervision**
 
-1. **2021 Nature Computational Science Emergence of urban growth patterns from human mobility behavior**
+   *Hanyuan Zhang, Hao Wu, Weiwei Sun, Baihua Zheng*
 
-   *Fengli Xu, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song*
+1. **2018 AAAI When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks**
 
-1. **2021 Nature The universal visitation law of human mobility**
+   *Dong Wang, Junbo Zhang, Wei Cao, Jian Li, Yu Zheng*
 
-   *Markus Schläpfer, Lei Dong, Kevin O'Keeffe, Paolo Santi, Michael Szell, Hadrien Salat, Samuel Anklesaria, Mohammad Vazifeh, Carlo Ratti, Geoffrey B West* 
+1. **2016 ICDM Traffic speed prediction and congestion source exploration: A deep learning method**
 
-1. **2021 Nature Mobility network models of COVID-19 explain inequities and inform reopening**
+   *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong*
 
-   *Serina Chang, Emma Pierson, Pang Wei Koh, Jaline Gerardin, Beth Redbird, David Grusky, Jure Leskovec*
+### Road Networks, Maps & Spatial Representations [[Back to Contents](#contents)]
 
-1. **2020 Nature Human Behavior Mapping global variation in human mobility**
-
-   *Moritz U G Kraemer, Adam Sadilek, Qian Zhang, Nahema A Marchal, Gaurav Tuli, Emily L Cohn, Yulin Hswen, T Alex Perkins, David L Smith, Robert C Reiner Jr, John S Brownstein*
-
-1. **2020 Nature The scales of human mobility**
-
-   *Laura Alessandretti, Ulf Aslak, Sune Lehmann*
-
-1. **2018 Physics Reports Human mobility: Models and applications**
-
-   *Hugo BarbosaFilho, Marc Barthelemy, Gourab Ghoshal, Charlotte R. James, Maxime Lenormand, Thomas Louail, Ronaldo Menezes, José J. Ramasco, Filippo Simini, Marcello Tomasini*
-
-1. **2017 Nature Communications Universal model of individual and population mobility on diverse spatial scales**
-
-   *XiaoYong Yan, WenXu Wang, ZiYou Gao, YingCheng Lai*
-
-1. **2016 PNAS Scaling identity connects human mobility and social interactions**
-
-   *Pierre Deville, Chaoming Song, Nathan Eagle, Vincent D. Blondel, Albert-László Barabási, Dashun Wang*
-
-1. **2012 Scientific Reports Activity driven modeling of time varying networks**
-
-   *Nicola Perra, Bruno Gonçalves, Romualdo PastorSatorras, Alessandro Vespignani*
-
-1. **2012 Nature Physics Modelling dynamical processes in complex socio-technical systems**
-
-   *Alessandro Vespignani*
-
-1. **2012 Nature letter A universal model for mobility and migration patterns**
-
-   *Filippo Simini, Marta C. González, Amos Maritan, AlbertLászló Barabási*
-
-1. **2012 KDD Discovering regions of different functions in a city using human mobility and POIs**
-
-   *Jing Yuan, Yu Zheng, Xing Xie*
-
-1. **2011 KDD Friendship and mobility: user movement in location-based social networks**
-
-   *Eunjoon Cho, Seth A. Myers, Jure Leskovec*
-
-1. **2010 Nature Physics Modelling the scaling properties of human mobility**
-
-   *Chaoming Song, Tal Koren, Pu Wang, AlbertLászló Barabási*
-
-1. **2009 WWW Mining interesting locations and travel sequences from GPS trajectories**
-
-   *Yu Zheng, Lizhu Zhang, Xing Xie, WeiYing Ma*
-
-1. **2008 Nature Understanding individual human mobility patterns**
-
-   *M.C. Gonzalez, C.A. Hidalgo, A.L. Barabasi*
-
-### [Road Network \& Trajectory Representation Learning](#contents)
+#### Road Network Representation Learning
 
 1. **2026 ICML Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning**
 
    *Jingtian Ma, Jingyuan Wang, Leong Hou U*
 
-1. **2026 KDD Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?**
-
-   *Shuo Liu, Di Yao, Yan Lin, Gao Cong, Jingping Bi*
-
 1. **2026 AAAI Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning**
 
    *Qinghong Guo, Yu Wang, Ji Cao, Tongya Zheng, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin*
-
-1. **2026 AAAI Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**
-
-   *Yanwei Yu, Hong Xia, Shaoxuan Gu, Xingyu Zhao, Dongliang Chen, Yuan Cao*
 
 1. **2026 AAAI Hierarchical Frequency-Decomposition Graph Neural Networks for Road Network Representation Learning**
 
@@ -1011,104 +1124,25 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Wentao Zhang, Jingyuan Wang, Yifan Yang, Leong Hou U*
 
-1. **2025 ICDE Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration**
-
-   *Hong Xia, Xiao Zhang, Yuan Cao, Lei Cao, Yanwei Yu, Junyu Dong*
-
 1. **2025 Geo-spatial Information Science MSRFormer: road network representation learning using multi-scale feature fusion of heterogeneous spatial interactions**
 
    *Jian Yang, Jiahui Wu, Li Fang, Hongchao Fan, Bianying Zhang, Huijie Zhao, Guangyi Yang, Rui Xin, Xiong You*
 
-1. **2025 NeurIPS UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
-
-   *Yuanshao Zhu, James Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang*
-
-1. **2025 NeurIPS TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration**
-
-   *Yuwei Du, Jie Feng, Jie Zhao, Yong Li*
-
-1. **2025 NeurIPS TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**
-
-   *Tonglong Wei, Yan Lin, Zeyu Zhou, Haomin Wen, Jilin Hu, Shengnan Guo, Youfang Lin, Gao Cong, Huaiyu Wan*
-
-1. **2025 NeurIPS TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**
-
-   *Yichen Liu, Yan Lin, Shengnan Guo, Zeyu Zhou, Youfang Lin, Huaiyu Wan*
-
 1. **2025 TKDD SE-GCL: A Semantic-Enhanced Graph Contrastive Learning Framework for Road Network Embedding**
- 
+
    *Jie Zhao, Chao Chen, Wanyi Zhang, Mingyu Deng, Huayan Pu, Jun Luo*
-
-1. **2025 TKDE UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation**
-
-   *Yan Lin, Jilin Hu, Shengnan Guo, Bin Yang, Christian S Jensen, Youfang Lin, Huaiyu Wan*
 
 1. **2025 TMC Semantic-Enhanced Representation Learning for Road Networks With Temporal Dynamics**
 
    *Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long*
 
-1. **2025 ICML GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
-
-   *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
-
-1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
-
-   *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
-
-1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation Learning—Extended Version**
-
-   *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
-
-1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
-
-   *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
-
-1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
-
-   *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S. Jensen*
-
-1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
-
-   *Zeyu Zhou, Yan Lin, Haomin Wen, Qisen Xu, Shengnan Guo, Jilin Hu, Youfang Lin, Huaiyu Wan*
-
-1. **2025 VLDB RED: Effective Trajectory Representation Learning with Comprehensive Information**
-
-   *Silin Zhou, Shuo Shang, Lisi Chen, Christian S. Jensen, Panos Kalnis*
-
-1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
-
-   *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
-
-1. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
-
-   *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, Yuxuan Liang*
-
-1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
-
-   *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
-
 1. **2025 IJCAI HygMap: Representing All Types of Map Entities via Heterogeneous Hypergraph**
 
    *Yifan Yang, Jingyuan Wang, Xie Yu, Yibang Tang*
 
-1. **2024 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
-
-   *Yan Lin, Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin*
-
 1. **2024 NeurIPS Road Network Representation Learning with the Third Law of Geography**
 
    *Haicang Zhou, Weiming Huang, Yile Chen, Tiantian He, Gao Cong, Yew-Soon Ong*
-
-1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
-
-   *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
-
-1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
-   *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
-
-1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
-
-   *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
 
 1. **2023 PAKDD Road network representation learning with vehicle trajectories**
 
@@ -1116,19 +1150,11 @@ Self-Attention Network for Estimating the Time of Arrival**
 
 1. **2023 EDBT Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**
 
-   *Yanchuan Chang, Egemen Tanin, Xin Cao, Jianzhong Qi* 
+   *Yanchuan Chang, Egemen Tanin, Xin Cao, Jianzhong Qi*
 
 1. **2023 TKDD Road network representation learning: A dual graph-based approach**
 
    *Liang Zhang, Cheng Long*
-
-1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
-
-   *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
-
-1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
-
-   *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
 
 1. **2021 CIKM Robust road network representation learning: When traffic patterns meet traveling semantics**
 
@@ -1141,10 +1167,6 @@ Self-Attention Network for Estimating the Time of Arrival**
 1. **2020 TIST On Representation Learning for Road Networks**
 
     *Meng-Xiang Wang, Wang-Chien Lee, Tao-Yang Fu, Ge Yu*
-
-1. **2020 TIST Trembr: Exploring Road Networks for Trajectory Representation Learning**
-
-   *Tao-Yang Fu, Wang-Chien Lee*
 
 1. **2020 TITS Relational Fusion Networks: Graph Convolutional Networks for Road Networks**
 
@@ -1162,192 +1184,195 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen, Kristian Torp*
 
-### [POI Recommendation](#contents)
+#### Path / Route Representation Learning
 
-1. **2026 WWW Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction**
+1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation Learning—Extended Version**
 
-   *Yu Wang, Junshu Dai, Yuchen Ying, Hanyang Yuan, Zunlei Feng, Tongya Zheng, Mingli Song*
+   *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
 
-1. **2026 WWW TravelReasoner: leveraging large reasoning models to address mobility data gap**
+1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
 
-   *Peijie Liu, Fengli Xu, Yong Li*
+   *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
 
-1. **2026 ICDE Efficient Model-Agnostic Continual Learning for Next POI Recommendation**
+1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
+   *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
 
-   *Chenhao Wang, Shanshan Feng, Lisi Chen, Fan Li, Shuo Shang*
+1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
 
-1. **2026 KDD Beyond Routines: Adaptive Mobility Prediction via Sequential-Relational Fusion**
+   *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
 
-   *Tianao Sun, Ruizhe Liu, Wenzhen Jia, Kai Zhao, Weiming Huang, Meng Chen*
+#### Joint Road-Trajectory Representation
 
-1. **2026 KDD Think2Go: Generative Next POI Recommendation with LLM Reasoning**
+1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
 
-   *Zhuang Zhuang, Shanshan Feng, Hangwei Qian, Mingqi Yang, Heng Qi, Yanming Shen, Baocai Yin*
+   *Silin Zhou, Shuo Shang, Lisi Chen, Peng Han, Christian S. Jensen*
 
-1. **2026 AAAI Multifaceted Scenario-Aware Hypergraph Learning for Next POI Recommendation**
+1. **2025 AAAI UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks**
 
-   *Yuxi Lin, Yongkang Li, Jie Xing, Zipei Fan*
+   *Jie Zhao, Chao Chen, Yuanshao Zhu, Mingyu Deng, Yuxuan Liang*
 
-1. **2026 AAAI Task-Aware Meta-Learning on Heterogeneous Knowledge Graph for POI Recommendation**
+1. **2025 AAAI Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning**
 
-   *Jingyuan Wang, Zhichun Wang, Tong Lu, Yiming Guan*
+   *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
-1. **2026 AAAI TOOL4POI: A Tool-Augmented LLM Framework for Next POI Recommendation**
+1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
 
-   *Dongsheng Wang, Shen Gao, Chengrui Huang, Yuxi Huang, Ruixiang Feng, Shuo Shang*
+   *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
 
-1. **2025 arXiv Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**
+1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
 
-   *Penglong Zhai, Jie Li, Fanyi Di, Yue Liu, Yifang Yuan, Jie Huang, Peng Wu, Sicong Wang, Mingyang Yin, Tingting Hu, Yao Xu, Xin Li*
-   
-1. **2025 arXiv Geography-Aware Large Language Models for Next POI Recommendation**
+   *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
 
-   *Zhao Liu, Wei Liu, Huaijie Zhu, Jianxing Yu, Jian Yin*
+1. **2020 TIST Trembr: Exploring Road Networks for Trajectory Representation Learning**
 
-1. **2025 CIKM TCFMamba: Trajectory Collaborative Filtering Mamba for Debiased Point-of-Interest Recommendation**
+   *Tao-Yang Fu, Wang-Chien Lee*
 
-   *Jin Qian, Shiyu Song, Xin Zhang, Dongjing Wang, He Weng, Haiping Zhang, Dongjin Yu*
-  
-1. **2025 CIKM MGSTDN:Multi-Granularity Spatial-Temporal Diffusion Network for Next POI Recommendation**
+### Mobility Patterns, Urban Science & Applications [[Back to Contents](#contents)]
 
-   *Zhuang Zhuang, Haitao Yuan, Shanshan Feng, Heng Qi, Yanming Shen, Baocai Yin*
+#### Mobility Laws & Scaling Patterns
 
-1. **2025 ACM MM IM-POI: Bridging ID and Multi-modal Gaps in Next POI Recommendation**
+1. **2024 SIGSPATIAL The Patterns of Life Human Mobility Simulation**
 
-   *Siyuan Huang, Jiahui Jin, Xin Lin, Xigang Sun, Yukun Ban*
+   *Hossein Amiri, Will Kohn, Shiyang Ruan, Joon-Seok Kim, Hamdi Kavak, Andrew Crooks, Dieter Pfoser, Carola Wenk, Andreas Zufle*
 
-1. **2025 TKDE Joint Modeling of Multimodal Information Based on Dynamic and Static Knowledge Graphs for Next POI Recommendation**
+1. **2024 SIGSPATIAL Beauty or Beast: Human Behavioral Insights and Learning Power of Federated Mobility Prediction**
 
-   *Xiaoxiao Sun, Zhengbo Gao, Dongjin Yu, Boyi Huang*
+   *João Paulo Esper, Aline Carneiro Viana, Jussara M. Almeida*
 
-1. **2025 IJCAI Disentangled and Personalized Representation Learning for Next Point-of-Interest Recommendation**
+1. **2023 Patterns A multi-scale unified model of human mobility in urban agglomerations**
 
-   *Xuan Rao, Shuo Shang, Lisi Chen, Renhe Jiang, Peng Han*
+   *Yong Chen, Haoge Xu, Xiqun (Michael) Chen, Ziyou Gao*
 
-1. **2025 KDD Generative Next POI Recommendation with Semantic ID**
+1. **2023 Nature Computational Science Future directions in human mobility science**
 
-   *Dongsheng Wang, Yuxi Huang, Shen Gao, Yifan Wang, Chengrui Huang, Shuo Shang*
+   *Luca Pappalardo, Ed Manley, Vedran Sekara, Laura Alessandretti*
 
-1. **2025 KDD Enhancing Large Language Models for Mobility Analytics with Semantic Location Tokenization**
+1. **2021 Nature The universal visitation law of human mobility**
 
-   *Yile Chen, Yicheng Tao, Yue Jiang, Shuai Liu, Han Yu, Gao Cong*
+   *Markus Schläpfer, Lei Dong, Kevin O'Keeffe, Paolo Santi, Michael Szell, Hadrien Salat, Samuel Anklesaria, Mohammad Vazifeh, Carlo Ratti, Geoffrey B West*
 
-1. **2025 KDD A Universal Model for Human Mobility Prediction**
+1. **2020 Nature Human Behavior Mapping global variation in human mobility**
 
-   *Qingyue Long, Yuan Yuan, Yong Li*
-   
-1. **2025 AAAI POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning**
+   *Moritz U G Kraemer, Adam Sadilek, Qian Zhang, Nahema A Marchal, Gaurav Tuli, Emily L Cohn, Yulin Hswen, T Alex Perkins, David L Smith, Robert C Reiner Jr, John S Brownstein*
 
-   *Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao*
+1. **2020 Nature The scales of human mobility**
 
-1. **2025 AAAI Integrating Personalized Spatio-Temporal Clustering for Next POI Recommendation**
+   *Laura Alessandretti, Ulf Aslak, Sune Lehmann*
 
-   *Chao Song, Zheng Ren, Li Lu*
+1. **2018 Physics Reports Human mobility: Models and applications**
 
-1. **2025 AAAI Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning**
+   *Hugo BarbosaFilho, Marc Barthelemy, Gourab Ghoshal, Charlotte R. James, Maxime Lenormand, Thomas Louail, Ronaldo Menezes, José J. Ramasco, Filippo Simini, Marcello Tomasini*
 
-   *Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu, Zhixu Li*
+1. **2017 Nature Communications Universal model of individual and population mobility on diverse spatial scales**
 
-1. **2024 KDD Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations**
+   *XiaoYong Yan, WenXu Wang, ZiYou Gao, YingCheng Lai*
 
-   *Jing Long, Guanhua Ye, Tong Chen, Yang Wang, Meng Wang, Hongzhi Yin*
+1. **2012 Scientific Reports Activity driven modeling of time varying networks**
 
-1. **2024 SIGIR Large Language Models for Next Point-of-Interest Recommendation**
-   
-   *Peibo Li, Maarten de Rijke, Hao Xue, Shuang Ao, Yang Song, Flora D. Salim*
+   *Nicola Perra, Bruno Gonçalves, Romualdo PastorSatorras, Alessandro Vespignani*
 
-1. **2024 TKDE Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning**
-   
-   *Xuan Rao, Renhe Jiang, Shuo Shang, Lisi Chen, Peng Han, Bin Yao, Panos Kalnis*
-   
-1. **2024 NeurIPS Taming the Long Tail in Human Mobility Prediction**
-   
-   *Xiaohang Xu,  Renhe Jiang, Chuang Yang, Zipei Fan,  Kaoru Sezaki*
-
-1. **2024 WWW MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations**
-   
-   *Yang Xu, Gao Cong, Lei Zhu, Lizhen Cui*
-
-1. **2024 NeurIPS Mobility-LLM: Learning Visiting Intentions and Travel Preferences from Human Mobility Data with Large Language Models**
-   
-   *Letian Gong, Yan Lin, Xinyue Zhang, Yiwen Lu, Xuedi Han, Yichen Liu, Shengnan Guo, Youfang Lin, Huaiyu Wan*
-
-1. **2024 Knowledge-Based Systems ImNext: Irregular Interval Attention and Multi-task Learning for Next POI Recommendation**
-   
-   *Xi He, Weikang He, Yilin Liu, Xingyu Lu, Yunpeng Xiao, Yanbing Liu*
-
-1. **2024 KDD ROTAN: A Rotation-based Temporal Attention Network for Time-Specific Next POI Recommendation**
-   
-   *Shanshan Feng, Feiyu Meng, Lisi Chen, L Cui, Shuo Shang, Yew Soon Ong*
-
-1. **2024 KDD Going Where, by Whom, and at What Time: Next Location Prediction Considering User Preference and Temporal Regularity**
-   
-   *Tianao Sun, Ke Fu, Weiming Huang, Kai Zhao, Yongshun Gong, Meng Chen*
-
-1. **2024 IJCAI Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation**
-   
-   *Lianyong Qi, Yuwen Liu, Weiming Liu, Shichao Pei, Xiaolong Xu, Xuyun Zhang, Yingjie Wang, Wanchun Dou*
-
-1. **2024 ICDE Towards Effective Next POI Prediction: Spatial and Semantic Augmentation with Remote Sensing Data**
-   
-   *Nan Jiang,  Haitao Yuan, Jianing Si, Minxiao Chen, Shangguang Wang*
-
-1. **2023 TOIS A Diffusion model for POI recommendation**
-   
-   *Yifang Qin, Hongjun Wu, Wei Ju, Xiao Luo, Ming Zhang*
-
-1. **2023 SIGIR Spatio-Temporal Hypergraph Learning for Next POI Recommendation**
-   
-   *Xiaodong Yan, Tengwei Song, Yifeng Jiao, Jianshan He, Jiaotuan Wang, Ruopeng Li, Wei Chu*
-
-1. **2023 SIGSPATIAL Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation**
-   
-   *Xiaohang Xu, Toyotaro Suzumura, Jiawei Yong, Masatoshi Hanai, Chuang Yang, Hiroki Kanezashi, Renhe Jiang, Shintaro Fukushima*
-
-1. **2023 SIGIR Adaptive Graph Representation Learning for Next POI Recommendation**
-   
-   *Zhaobo Wang, Yanmin Zhu, Chunyang Wang, Wenze Ma, Bo Li, Jiadi Yu*
-
-1. **2023 AAAI Next POI Recommendation with Dynamic Graph and Explicit Dependency**
-   
-   *Feiyu Yin, Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han*
-
-1. **2022 SIGIR Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation**
-   
-   *Nicholas Lim, Bryan Hooi, See-Kiong Ng, Yong Liang Goh, Renrong Weng, Rui Tan*
-
-1. **2022 SIGIR GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**
-   
-   *Song Yang, Jiamou Liu, Kaiqi Zhao*
-
-1. **2022 KDD Graph-Flashback Network for Next Location Recommendation**
-   
-   *Xuan Rao, Lisi Chen, Yong Liu, Shuo Shang, Bin Yao, and Peng Han*
-
-1. **2022 Knowledge-Based Systems Building and exploiting spatial–temporal knowledge graph for next POI recommendation**
-   
-   *Wei Chen, Huaiyu Wan, Shengnan Guo, Haoyu Huang, Shaojie Zheng, Jiamu Li, Shuohao Lin, Youfang Lin*
-
-1. **2021 WWW STAN: Spatio-Temporal Attention Network for Next Location Recommendation**
-   
-   *Yingtao Luo, Qiang Liu, Zhaocheng Liu*
-   
-1. **2020 IJCAI Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**
-   
-   *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux*
-
-1. **2020 ICDM STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**
-   
-   *Haoyu Han, Mengdi Zhang, Min Hou, Fuzheng Zhang, Zhongyuan Wang, Enhong Chen, Hongwei Wang, Jianhui Ma, Qi Liu*
-
-1. **2020 AAAI Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation**
-   
-   *Ke Sun, Tieyun Qian, Tong Chen, Yile LiangQuoc Viet Hung Nguyen, Hongzhi Yin*
-
-1. **2019 AAAI Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation**
-   
-   *Pengpeng Zhao, Haifeng Zhu, Yanchi Liu, Jiajie Xu, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou*
-
-1. **2018 WWW DeepMove: Predicting Human Mobility with Attentional Recurrent Networks**
-   
-   *Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin*
+1. **2012 Nature Physics Modelling dynamical processes in complex socio-technical systems**
+
+   *Alessandro Vespignani*
+
+1. **2012 Nature letter A universal model for mobility and migration patterns**
+
+   *Filippo Simini, Marta C. González, Amos Maritan, AlbertLászló Barabási*
+
+1. **2010 Nature Physics Modelling the scaling properties of human mobility**
+
+   *Chaoming Song, Tal Koren, Pu Wang, AlbertLászló Barabási*
+
+1. **2008 Nature Understanding individual human mobility patterns**
+
+   *M.C. Gonzalez, C.A. Hidalgo, A.L. Barabasi*
+
+#### Urban Structure & Functional Regions
+
+1. **2024 SIGSPATIAL Urban Mobility Assessment Using LLMs**
+
+   *Prabin Bhandari, Antonios Anastasopoulos, Dieter Pfoser*
+
+1. **2024 SIGSPATIAL Additive Compositionality in Urban Area Embeddings Based on Human Mobility Patterns**
+
+   *Naoki Tamura, Haru Terashima, Kazuyuki Shoji, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi*
+
+1. **2023 Scientific Reports The spatiotemporal prediction method of urban population density distribution through behaviour environment interaction agent model**
+
+   *Junyan Yang, Yi Shi, Yi Zheng, Zhonghu Zhang*
+
+1. **2023 Scientific Reports Estimating urban spatial structure based on remote sensing data**
+
+   *Masanobu Kii, Tetsuya Tamaki, Tatsuya Suzuki, Atsuko Nonomura*
+
+1. **2021 Nature Computational Science Emergence of urban growth patterns from human mobility behavior**
+
+   *Fengli Xu, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song*
+
+1. **2012 KDD Discovering regions of different functions in a city using human mobility and POIs**
+
+   *Jing Yuan, Yu Zheng, Xing Xie*
+
+1. **2009 WWW Mining interesting locations and travel sequences from GPS trajectories**
+
+   *Yu Zheng, Lizhu Zhang, Xing Xie, WeiYing Ma*
+
+#### Epidemics, Public Health & Resilience
+
+1. **2023 Scientific Reports Epidemic thresholds and human mobility**
+
+   *Marta Pardo-Araujo, David García-García, David Alonso, Frederic Bartumeus*
+
+1. **2023 npj Urban Sustainability A general urban spreading pattern of COVID-19 and its underlying mechanism**
+
+   *Hongshen Zhang, Yongtao Zhang, Shibo He, Yi Fang, Yanggang Cheng, Zhiguo Shi, Cunqi Shao, Chao Li, Songmin Ying, Zhenyu Gong, Yu Liu, Lin Dong, Youxian Sun, Jianmin Jia, H. Eugene Stanley, Jiming Chen*
+
+1. **2023 Nature Human Behaviour COVID-19 is linked to changes in the time–space dimension of human mobility**
+
+   *Clodomir Santana, Federico Botta, Hugo Barbosa, Filippo Privitera, Ronaldo Menezes, Riccardo Di Clemente*
+
+1. **2023 Communications Medicine Forecasting hospital-level COVID-19 admissions using real-time mobility data**
+
+   *Brennan Klein, Ana C. Zenteno, Daisha Joseph, Mohammadmehdi Zahedi, Michael Hu, Martin S. Copenhaver, Moritz U. G. Kraemer, Matteo Chinazzi, Michael Klompas, Alessandro Vespignani, Samuel V. Scarpino, Hojjat Salmasian*
+
+#### Equity, Segregation & Social Outcomes
+
+1. **2023 Scientific Reports Uncovering spatial and social gaps in rural mobility via mobile phone big data**
+
+   *Zhengying Liu, Pengjun Zhao, Qiyang Liu, Zhangyuan He, Tingting Kang*
+
+1. **2023 Nature Communications Behavioral changes during the COVID-19 pandemic decreased income diversity of urban encounters**
+
+   *Takahiro Yabe, Bernardo García Bulle Bueno, Xiaowen Dong, Alex Pentland, Esteban Moro*
+
+1. **2023 AAAI Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**
+
+   *Lin Chen, Fengli Xu, Qianyue Hao, Pan Hui, Yong Li*
+
+1. **2021 Nature Mobility network models of COVID-19 explain inequities and inform reopening**
+
+   *Serina Chang, Emma Pierson, Pang Wei Koh, Jaline Gerardin, Beth Redbird, David Grusky, Jure Leskovec*
+
+1. **2016 PNAS Scaling identity connects human mobility and social interactions**
+
+   *Pierre Deville, Chaoming Song, Nathan Eagle, Vincent D. Blondel, Albert-László Barabási, Dashun Wang*
+
+1. **2011 KDD Friendship and mobility: user movement in location-based social networks**
+
+   *Eunjoon Cho, Seth A. Myers, Jure Leskovec*
+
+#### Sustainability, Energy & Environment
+
+1. **2023 Nature_Sustain. Carbon emissions and sustainability of launching 5G mobile networks in China**
+
+   *Tong Li, Li Yu, Yibo Ma, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin, Yong Li, Tao Jiang*
+
+#### Urban Planning & Policy
+
+1. **2023 Nature Computational Science Spatial planning of urban communities via deep reinforcement learning**
+
+   *Yu Zheng, Yuming Lin, Liang Zhao, Tinghai Wu, Depeng Jin, Yong Li*
+
+1. **2022 Nature Human Behaviour Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity**
+
+   *Lin Chen, Fengli Xu, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li*
