@@ -35,6 +35,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
   - [Sustainability, Energy & Environment](#sustainability-energy--environment)
   - [Urban Planning & Policy](#urban-planning--policy)
 
+<a id="survey--review"></a>
 ### Survey & Review [[Back to Contents](#contents)]
 
 1. **2026 TKDE Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review**
@@ -125,6 +126,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Yu Zheng*
 
+<a id="foundation-models-llms--agents"></a>
 ### Foundation Models, LLMs & Agents [[Back to Contents](#contents)]
 
 1. **2026 arXiv STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning**
@@ -195,6 +197,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Yifan Zhang, Cheng Wei, Shangyou Wu, Zhengting He, Wenhao Yu*
 
+<a id="individual-mobility--trajectories"></a>
 ### Individual Mobility & Trajectories [[Back to Contents](#contents)]
 
 #### Mobility Prediction & POI Recommendation
@@ -844,6 +847,7 @@ under Weighted Edit Distance Constraints**
 
    *Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*
 
+<a id="aggregate-mobility--urban-flows"></a>
 ### Aggregate Mobility & Urban Flows [[Back to Contents](#contents)]
 
 #### Traffic / Crowd Flow Prediction
@@ -1104,6 +1108,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong*
 
+<a id="road-networks-maps--spatial-representations"></a>
 ### Road Networks, Maps & Spatial Representations [[Back to Contents](#contents)]
 
 #### Road Network Representation Learning
@@ -1227,6 +1232,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Tao-Yang Fu, Wang-Chien Lee*
 
+<a id="mobility-patterns-urban-science--applications"></a>
 ### Mobility Patterns, Urban Science & Applications [[Back to Contents](#contents)]
 
 #### Mobility Laws & Scaling Patterns
