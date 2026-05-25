@@ -25,7 +25,6 @@ I have made a list of accepted papers and useful arXiv papers related to human m
   - [Travel Time / ETA Estimation](#travel-time--eta-estimation)
 - [Road Networks, Maps & Spatial Representations](#road-networks-maps--spatial-representations)
   - [Road Network Representation Learning](#road-network-representation-learning)
-  - [Path / Route Representation Learning](#path--route-representation-learning)
   - [Joint Road-Trajectory Representation](#joint-road-trajectory-representation)
 - [Mobility Patterns, Urban Science & Applications](#mobility-patterns-urban-science--applications)
   - [Mobility Laws & Scaling Patterns](#mobility-laws--scaling-patterns)
@@ -640,6 +639,10 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Xiangheng Wang, Ziquan Fang, Chenglong Huang, Danlei Hu, Lu Chen, Yunjun Gao*
 
+1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation Learning**
+
+   *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
+
 1. **2025 KDD Blurred Encoding for Trajectory Representation Learning**
 
    *Silin Zhou, Yao Chen, Shuo Shang, Lisi Chen, Bingsheng He, Ryosuke Shibasaki*
@@ -647,6 +650,10 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 1. **2025 KDD Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
 
    *Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang*
+
+1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
+
+   *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
 
 1. **2025 IJCAI TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories**
 
@@ -656,13 +663,24 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Silin Zhou, Shuo Shang, Lisi Chen, Christian S. Jensen, Panos Kalnis*
 
-1. **2024 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
+1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
+
+   *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
+
+1. **2023 TKDE Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding**
 
    *Yan Lin, Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin*
 
 1. **2023 ICDE Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**
 
    *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
+
+1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
+   *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
+
+1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
+
+   *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
 
 #### Trajectory Similarity, Search & Clustering
 
@@ -1189,23 +1207,6 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen, Kristian Torp*
 
-#### Path / Route Representation Learning
-
-1. **2025 KDD MM-Path: Multi-modal, Multi-granularity Path Representation Learning—Extended Version**
-
-   *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*
-
-1. **2025 WWW Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models**
-
-   *Yongfu Wei, Yan Lin, Hongfan Gao, Ronghui Xu, Sean Bin Yang, Jilin Hu*
-
-1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
-   *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
-
-1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
-
-   *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
-
 #### Joint Road-Trajectory Representation
 
 1. **2025 KDD Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
@@ -1220,11 +1221,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Chengkai Han, Jingyuan Wang, Wang Yongyao, Xie Yu, Hao Lin, Li Chao, Junjie Wu*
 
-1. **2024 WWW More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning**
-
-   *Zhipeng Ma, Zhenyan Tu, Xinhai Chen, Yan Zhang, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong*
-
-1. **2022 CIKM Jointly contrastive representation learning on road network and trajectory**
+1. **2022 CIKM Jointly Contrastive Representation Learning on Road Network and Trajectory**
 
    *Zhenyu Mao, Ziyue Li, Dedong Li, Lei Bai, Rui Zhao*
 
