@@ -677,6 +677,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
    *Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang*
 
 1. **2023 KDD LightPath: Lightweight and Scalable Path Representation Learning**
+
    *Sean Bin Yang, Jilin Hu, Chenjuan Guo, Bin Yang, Christian S. Jensen*
 
 1. **2021 IJCAI Unsupervised Path Representation Learning with Curriculum Negative Sampling**
