@@ -1214,6 +1214,10 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Yimei Zhang, Guojiang Shen, Kaili Ning, Tongwei Ren, Xuebo Qiu, Mengmeng Wang, Xiangjie Kong*
 
+1. **2025 KDD FlexiReg: Flexible Urban Region Representation Learning**
+
+   *Fengze Sun, Yanchuan Chang, Egemen Tanin, Shanika Karunasekera, Jianzhong Qi*
+
 1. **2025 AAAI UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Socioeconomic Indicator Prediction**
 
    *Xixuan Hao, Wei Chen, Yibo Yan, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang*
@@ -1301,6 +1305,10 @@ Self-Attention Network for Estimating the Time of Arrival**
 1. **2020 AAAI Lightweight and Robust Representation of Economic Scales from Satellite Imagery**
 
    *Sungwon Han, Donghyun Ahn, Hyunji Cha, Jeasurk Yang, Sungwon Park, Meeyoung Cha*
+
+1. **2019 AAAI Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations**
+
+   *Yanjie Fu, Pengyang Wang, Jiadi Du, Le Wu, Xiaolin Li*
 
 1. **2019 AAAI Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data**
 
