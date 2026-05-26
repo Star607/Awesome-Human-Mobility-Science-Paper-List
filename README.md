@@ -25,6 +25,7 @@ I have made a list of accepted papers and useful arXiv papers related to human m
   - [Travel Time / ETA Estimation](#travel-time--eta-estimation)
 - [Road Networks, Maps & Spatial Representations](#road-networks-maps--spatial-representations)
   - [Road Network Representation Learning](#road-network-representation-learning)
+  - [Urban Region Representation Learning](#urban-region-representation-learning)
   - [Joint Road-Trajectory Representation](#joint-road-trajectory-representation)
 - [Mobility Patterns, Urban Science & Applications](#mobility-patterns-urban-science--applications)
   - [Mobility Laws & Scaling Patterns](#mobility-laws--scaling-patterns)
@@ -1207,6 +1208,124 @@ Self-Attention Network for Estimating the Time of Arrival**
 1. **2018 IEEE BigData On Network Embedding for Machine Learning on Road Networks: A Case Study on the Danish Road Network**
 
    *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen, Kristian Torp*
+
+#### Urban Region Representation Learning
+
+1. **2026 AAAI Improving Region Representation Learning from Urban Imagery with Noisy Long-Caption Supervision**
+
+   *Yimei Zhang, Guojiang Shen, Kaili Ning, Tongwei Ren, Xuebo Qiu, Mengmeng Wang, Xiangjie Kong*
+
+1. **2025 KDD FlexiReg: Flexible Urban Region Representation Learning**
+
+   *Fengze Sun, Yanchuan Chang, Egemen Tanin, Shanika Karunasekera, Jianzhong Qi*
+
+1. **2025 AAAI UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Socioeconomic Indicator Prediction**
+
+   *Xixuan Hao, Wei Chen, Yibo Yan, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang*
+
+1. **2024 KDD ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations**
+
+   *Congxi Xiao, Jingbo Zhou, Yixiong Xiao, Jizhou Huang, Hui Xiong*
+
+1. **2024 WWW UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web**
+
+   *Yibo Yan, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang*
+
+1. **2024 AAAI Urban Region Embedding via Multi-View Contrastive Prediction**
+
+   *Zechen Li, Weiming Huang, Kai Zhao, Min Yang, Yongshun Gong, Meng Chen*
+
+1. **2024 ICDE Urban Region Representation Learning with Attentive Fusion**
+
+   *Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karunasekera, Egemen Tanin*
+
+1. **2024 IJCAI MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning**
+
+   *Xixian Yong, Xiao Zhou*
+
+1. **2024 TGARS RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
+
+   *Fan Liu, Delong Chen, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Qiaolin Ye, Liyong Fu, Jun Zhou*
+
+1. **2023 KDD Urban Region Representation Learning with OpenStreetMap Building Footprints**
+
+   *Yi Li, Weiming Huang, Gao Cong, Hao Wang, Zheng Wang*
+
+1. **2023 ISPRS Journal of Photogrammetry and Remote Sensing Learning Urban Region Representations with POIs and Hierarchical Graph Infomax**
+
+   *Weiming Huang, Daokun Zhang, Gengchen Mai, Xu Guo, Lizhen Cui*
+
+1. **2023 AAAI Heterogeneous Region Embedding with Prompt Learning**
+
+   *Silin Zhou, Dan He, Lisi Chen, Shuo Shang, Peng Han*
+
+1. **2023 WWW Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**
+
+   *Yu Liu, Xin Zhang, Jingtao Ding, Yanxin Xi, Yong Li*
+
+1. **2023 TIST Learning Representations of Satellite Imagery by Leveraging Point-of-Interests**
+
+   *Tong Li, Yanxin Xi, Huandong Wang, Yong Li, Sasu Tarkoma, Pan Hui*
+
+1. **2022 CIKM Urban Region Profiling via Multi-Graph Representation Learning**
+
+   *Yan Luo, Fu-lai Chung, Kai Chen*
+
+1. **2022 IJCAI Multi-Graph Fusion Networks for Urban Region Embedding**
+
+   *Shangbin Wu, Xu Yan, Xiaoliang Fan, Shirui Pan, Shichao Zhu, Chuanpan Zheng, Ming Cheng, Cheng Wang*
+
+1. **2022 TKDE Region Embedding with Intra and Inter-View Contrastive Learning**
+
+   *Liang Zhang, Cheng Long, Gao Cong*
+
+1. **2022 WWW Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests**
+
+   *Yanxin Xi, Tong Li, Huandong Wang, Yong Li, Sasu Tarkoma, Pan Hui*
+
+1. **2022 AAAI Learning Economic Indicators by Aggregating Multi-Level Geospatial Information**
+
+   *Sungwon Park, Sungwon Han, Donghyun Ahn, Jaeyeon Kim, Jeasurk Yang, Susang Lee, Seunghoon Hong, Jihee Kim, Sangyoon Park, Hyunjoo Yang, Meeyoung Cha*
+
+1. **2022 CIKM Predicting Multi-level Socioeconomic Indicators from Structural Urban Imagery**
+
+   *Tong Li, Shiduo Xin, Yanxin Xi, Sasu Tarkoma, Pan Hui, Yong Li*
+
+1. **2020 IJCAI Multi-View Joint Graph Representation Learning for Urban Region Embedding**
+
+   *Mingyang Zhang, Tong Li, Yong Li, Pan Hui*
+
+1. **2020 AAAI Learning Geo-Contextual Embeddings for Commuting Flow Prediction**
+
+   *Zhicheng Liu, Fabio Miranda, Weiting Xiong, Junyan Yang, Qiao Wang, Claudio T. Silva*
+
+1. **2020 AAAI Lightweight and Robust Representation of Economic Scales from Satellite Imagery**
+
+   *Sungwon Han, Donghyun Ahn, Hyunji Cha, Jeasurk Yang, Sungwon Park, Meeyoung Cha*
+
+1. **2019 AAAI Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations**
+
+   *Yanjie Fu, Pengyang Wang, Jiadi Du, Le Wu, Xiaolin Li*
+
+1. **2019 AAAI Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data**
+
+   *Neal Jean, Sherrie Wang, Anshul Samar, George Azzari, David Lobell, Stefano Ermon*
+
+1. **2019 KDD Unifying Inter-Region Autocorrelation and Intra-Region Structures for Spatial Embedding via Collective Adversarial Learning**
+
+   *Yunchao Zhang, Yanjie Fu, Pengyang Wang, Xiaolin Li, Yu Zheng*
+
+1. **2019 ICDM Beyond Geo-First Law: Learning Spatial Representations via Integrated Autocorrelations and Complementarity**
+
+   *Jiadi Du, Yunchao Zhang, Pengyang Wang, Jennifer Leopold, Yanjie Fu*
+
+1. **2018 IJCAI Representing Urban Functions through Zone Embedding with Human Mobility Patterns**
+
+   *Zijun Yao, Yanjie Fu, Bin Liu, Wangsu Hu, Hui Xiong*
+
+1. **2017 CIKM Region Representation Learning via Mobility Flow**
+
+   *Hongjian Wang, Zhenhui Li*
 
 #### Joint Road-Trajectory Representation
 
