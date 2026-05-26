@@ -1243,9 +1243,9 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Xixian Yong, Xiao Zhou*
 
-1. **2024 TGARS RemoteCLIP: A Vision Language Foundation  Model for Remote Sensing**
+1. **2024 TGARS RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**
 
-   *Fan Liu, Delong Chen, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu,  Qiaolin Ye, Liyong Fu, Jun Zhou*
+   *Fan Liu, Delong Chen, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu, Qiaolin Ye, Liyong Fu, Jun Zhou*
 
 1. **2023 KDD Urban Region Representation Learning with OpenStreetMap Building Footprints**
 
