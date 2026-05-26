@@ -1246,10 +1246,6 @@ Self-Attention Network for Estimating the Time of Arrival**
 
    *Fan Liu, Delong Chen, Zhangqingyun Guan, Xiaocong Zhou, Jiale Zhu,  Qiaolin Ye, Liyong Fu, Jun Zhou*
 
-1. **2023 TKDE Region Embedding with Intra and Inter-View Contrastive Learning**
-
-   *Liang Zhang, Cheng Long, Gao Cong*
-
 1. **2023 KDD Urban Region Representation Learning with OpenStreetMap Building Footprints**
 
    *Yi Li, Weiming Huang, Gao Cong, Hao Wang, Zheng Wang*
@@ -1300,7 +1296,7 @@ Self-Attention Network for Estimating the Time of Arrival**
 
 1. **2020 AAAI Learning Geo-Contextual Embeddings for Commuting Flow Prediction**
 
-   *Zhicheng Liu, Fabio Miranda, Weiting Xiong, Junyan Yang, Qiao Wang, Claudio Silva*
+   *Zhicheng Liu, Fabio Miranda, Weiting Xiong, Junyan Yang, Qiao Wang, Claudio T. Silva*
 
 1. **2020 AAAI Lightweight and Robust Representation of Economic Scales from Satellite Imagery**
 
