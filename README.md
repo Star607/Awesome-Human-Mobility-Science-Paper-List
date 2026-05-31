@@ -456,6 +456,14 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
 #### Trajectory Generation & Simulation
 
+1. **2026 KDD From GPS Points to Travel Patterns: Flexible and Semantic Trajectory Generation with LLMs**
+
+   *Silin Zhou, Chenhao Wang, Yuntao Wen, Shuo Shang, Lisi Chen, Panos Kalnis*
+
+1. **2026 KDD Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**
+
+   *Baoshen Guo, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao*
+
 1. **2025 WWW Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation**
 
    *Xuan Rao, Shuo Shang, Renhe Jiang, Peng Han, Lisi Chen*
