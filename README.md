@@ -460,6 +460,10 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
    *Silin Zhou, Chenhao Wang, Yuntao Wen, Shuo Shang, Lisi Chen, Panos Kalnis*
 
+1. **2026 KDD Generating Realistic Human Mobility Data with Hybrid LargeLanguage Model Agent**
+
+   *Chenyang Shao, Bingbing Fan, Jingtao Ding, Yuan Yuan, Meng Wang, Fengli Xu*
+
 1. **2026 KDD Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**
 
    *Baoshen Guo, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao*
