@@ -202,6 +202,22 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
 #### Mobility Prediction & POI Recommendation
 
+1. **2026 KDD G2PRO: Gradient-guided Graph Prompt Optimization for LLM-based POI Recommendation**
+
+   *Nan Jiang, Haitao Yuan, Tianjun Wei, Yingpeng Du, Jianing Si, Minxiao Chen, Jie Zhang, Zhu Sun*
+
+1. **2026 KDD Is the Last Check-In All You Need? Next POI Recommendation: Recall and Rerank**
+
+   *Zhengjia Xu, Dingyang Lyu, Zitai Qiu, Shan Xue, Jian Yang, Jia Wu*
+
+1. **2026 KDD CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting**
+
+   *Zhaoqi Zhang, Miao Xie, Yi Li, Linyou Cai, Siqiang Luo, Gao Cong*
+
+1. **2026 KDD Mag-Mamba: Modeling Coupled Spatio-temporal Asymmetry for POI Recommendation**
+
+   *Zhuoxuan Li, Tangwei Ye, Jieyuan Pei, Haina Liang, Zhongyuan Lai, Zihan Liu, Yiming Wu, Qi Zhang, Liang Hu*
+
 1. **2025 SIGSPATIAL UniMove: A Unified Model for Multi-city Human Mobility Prediction**
 
    *Chonghua Han, Yuan Yuan, Yukun Liu, Jingtao Ding, Jie Feng, Yong Li*
@@ -616,6 +632,10 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 
 #### Trajectory Representation Learning
 
+1. **2026 KDD REFINE: Trajectory Representation Learning via Closed-Loop Transcription**
+
+   *Sean Bin Yang, Ying Sun, Jilin Hu, Zongyi Xu, Kristian Torp, Hua Lu, Bin Yang, Christian S. Jensen*
+
 1. **2026 KDD Traj-MLLM: Can Multimodal Large Language Models Reform Trajectory Data Mining?**
 
    *Shuo Liu, Di Yao, Yan Lin, Gao Cong, Jingping Bi*
@@ -627,6 +647,10 @@ I have made a list of accepted papers and useful arXiv papers related to human m
 1. **2025 ICDE Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration**
 
    *Hong Xia, Xiao Zhang, Yuan Cao, Lei Cao, Yanwei Yu, Junyu Dong*
+
+1. **2025 NeurIPS SMARTraj: A Stable Multi-City Adaptive Method for Multi-View Spatio-Temporal Trajectory Representation Learning**
+
+   *Tangwen Qian, Junhe Li, Yile Chen, Gao Cong, Zezhi Shao, Jun Zhang, Tao Sun, Fei Wang, Yongjun Xu*
 
 1. **2025 NeurIPS UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces**
 
@@ -697,6 +721,14 @@ I have made a list of accepted papers and useful arXiv papers related to human m
    *Sean Bin Yang, Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang*
 
 #### Trajectory Similarity, Search & Clustering
+
+1. **2026 KDD LATTE: Learning Adaptive Segmentation for Efficient and Effective Trajectory Similarity Learning**
+
+   *Jialiang Li, Hua Lu, Tiantian Liu, Zhichen Lai, Pengfei Li*
+
+1. **2026 SIGMOD GoodTP: An Effective Data Selection Framework for Enhancing Trajectory Similarity Learning via Monte Carlo Tree Search**
+
+   *Haitao Yuan, Gao Cong*
 
 1. **2025 WWW Parallel Online Similarity Join over Trajectory Streams**
 
@@ -1056,6 +1088,22 @@ under Weighted Edit Distance Constraints**
 
 #### Travel Time / ETA Estimation
 
+1. **2026 KDD A Data-driven Route Segmentation Framework for Time-of-Arrival Estimation Service**
+
+   *Jiangyi Fang, Liyue Chen, Yinfeng Xiang, Xi Sun, Hui Zhong, Leye Wang*
+
+1. **2026 KDD Towards Robust Travel Time Estimation: An Out-of-Distribution Generalization Approach**
+
+   *Xiwen Jiang, Chuan Zhou, Xiaofeng Meng, Haoxuan Li*
+
+1. **2026 KDD UNITE: A Unified Framework for Accurate and Efficient Origin-Destination and Route Travel Time Estimation**
+
+   *Wei Tian, Jieming Shi, Man Lung Yiu*
+
+1. **2026 KDD DSETA: A Dual-Stage Continual Learning Framework for Travel Time Prediction in Dynamic Traffic Environments**
+
+   *Yanming Lyu, Yue Cheng, Lingkun Li, Ruipeng Gao, Xinyue Liu, Hui Gao, Qiang Ni*
+
 1. **2026 WWW Multimodal Trajectory Representation Learning for Travel TimeEstimation**
 
    *Zhi Liu, Xuyuan Hu, Xiao Han, Zhehao Dai, Zhaolin Deng, Guojiang Shen, Xiangjie Kong*
@@ -1222,6 +1270,14 @@ Self-Attention Network for Estimating the Time of Arrival**
    *Tobias Skovgaard Jepsen, Christian S. Jensen, Thomas Dyhre Nielsen, Kristian Torp*
 
 #### Urban Region Representation Learning
+
+1. **2026 KDD Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling**
+
+   *Xixuan Hao, Yutian Jiang, Jiabo Liu, Yihang Yang, Guangyin Jin, Song Gao, Yuxuan Liang*
+
+1. **2026 KDD UrbanExpert: Task-Conditioned Multi-Modal Fusion via Semantic Expert Routing for Urban Socioeconomic Prediction**
+
+   *Zechen Li, Hongwei Jia, Weiming Huang, Kai Zhao, Meng Chen*
 
 1. **2026 AAAI Improving Region Representation Learning from Urban Imagery with Noisy Long-Caption Supervision**
 
